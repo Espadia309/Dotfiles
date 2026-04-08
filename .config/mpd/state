@@ -1,0 +1,27 @@
+sw_volume: 25
+audio_device_state:1:pipewire output
+audio_device_state:1:Visualizer feed
+state: pause
+current: 2
+time: 120.4
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:Feldup & The Showerheads/A Thousand Doors, Just One Key/1 - Century Long Fire.mp3
+1:Feldup & The Showerheads/A Thousand Doors, Just One Key/10 - Stockholm.mp3
+2:Feldup & The Showerheads/A Thousand Doors, Just One Key/11 - Paris I Hate You.mp3
+3:Feldup & The Showerheads/A Thousand Doors, Just One Key/2 - Falling Apart.mp3
+4:Feldup & The Showerheads/A Thousand Doors, Just One Key/3 - Attention.mp3
+5:Feldup & The Showerheads/A Thousand Doors, Just One Key/4 - Take It Slow.mp3
+6:Feldup & The Showerheads/A Thousand Doors, Just One Key/5 - A Little Less Cold.mp3
+7:Feldup & The Showerheads/A Thousand Doors, Just One Key/6 - Mental Health.mp3
+8:Feldup & The Showerheads/A Thousand Doors, Just One Key/7 - So Heavy.mp3
+9:Feldup & The Showerheads/A Thousand Doors, Just One Key/8 - The Spiral.mp3
+10:Feldup & The Showerheads/A Thousand Doors, Just One Key/9 - Almost Gave Up.mp3
+playlist_end
