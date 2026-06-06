@@ -1,0 +1,77 @@
+1779338406988	FirefoxAccounts	TRACE	initializing new storage manager
+1779338406988	FirefoxAccounts	TRACE	starting fetch of json user data
+1779338406990	FirefoxAccounts	TRACE	initializing of new storage manager done
+1779338407273	FirefoxAccounts	DEBUG	FxAccountsWebChannel registered: account_updates with origin https://accounts.firefox.com
+1779361154111	Sync.Status	INFO	Resetting Status.
+1779361154111	Sync.Status	DEBUG	Status.service: undefined => success.status_ok
+1779361154111	Sync.SyncScheduler	TRACE	Setting SyncScheduler policy values to defaults.
+1779361154111	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1779361154111	Sync.Status	DEBUG	Status.login: success.login => error.login.reason.no_username
+1779361154111	Sync.Status	DEBUG	Status.service: success.status_ok => service.client_not_configured
+1779361154111	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1779361154111	Sync.Service	INFO	Loading Weave 1.152.0
+1779361154112	Sync.Engine.Clients	DEBUG	Engine constructed
+1779361154112	Sync.Engine.Clients	DEBUG	Resetting clients last sync time
+1779361154219	Sync.Engine.Addons	DEBUG	Engine constructed
+1779361154388	Sync.Engine.Addons	DEBUG	SyncEngine initialized: addons
+1779361154456	Sync.AddonsReconciler	DEBUG	No data seen in loaded file: addonsreconciler
+1779361154457	Sync.Engine.Passwords	DEBUG	Engine constructed
+1779361154472	Sync.Engine.Passwords	DEBUG	SyncEngine initialized: passwords
+1779361154472	Sync.Engine.Prefs	DEBUG	Engine constructed
+1779361154476	Sync.Engine.Prefs	DEBUG	SyncEngine initialized: prefs
+1779361154477	Sync.Engine.Bookmarks	DEBUG	Engine constructed
+1779361154479	Sync.Engine.Bookmarks	DEBUG	SyncEngine initialized: bookmarks
+1779361154479	Sync.Engine.Forms	DEBUG	Engine constructed
+1779361154480	Sync.Engine.Forms	DEBUG	SyncEngine initialized: forms
+1779361154481	Sync.Engine.History	DEBUG	Engine constructed
+1779361154482	Sync.Engine.History	DEBUG	SyncEngine initialized: history
+1779361154484	Sync.Engine.Tabs	DEBUG	Engine constructed
+1779361154484	Sync.Engine.Tabs	DEBUG	SyncEngine initialized: tabs
+1779361154490	Sync.Engine.Tabs	INFO	Got a bridged engine!
+1779361154490	Sync.Engine.Addresses	DEBUG	Engine constructed
+1779361154492	Sync.Engine.Addresses	DEBUG	SyncEngine initialized: addresses
+1779361154492	Sync.Engine.CreditCards	DEBUG	Engine constructed
+1779361154497	Sync.Engine.CreditCards	DEBUG	SyncEngine initialized: creditcards
+1779361154498	Sync.Engine.Extension-Storage	DEBUG	Engine constructed
+1779361154500	Sync.Engine.Extension-Storage	DEBUG	SyncEngine initialized: extension-storage
+1779361154504	Sync.Engine.Tabs	DEBUG	webext storage db: opening database
+1779361154504	Sync.Engine.Tabs	DEBUG	webext storage db: checking if initialization is necessary
+1779361154508	Sync.Engine.Tabs	DEBUG	webext storage db: preparing
+1779361154508	Sync.Engine.Tabs	DEBUG	webext storage db: finishing writable database open
+1779361154508	Sync.Engine.Tabs	DEBUG	webext storage db: database open successful
+1779361154509	Sync.Engine.Extension-Storage	INFO	Got a bridged engine!
+1779361154509	Sync.Service	INFO	Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0
+1779361154509	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1779361154509	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1779361154509	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1779380523372	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1779380524379	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1779382028653	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1779382029676	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1779382031146	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1779382033066	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1779382042284	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1779382043287	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1779382116998	Sync.SyncScheduler	DEBUG	Network link status changed to "down". Offline?: false
+1779382116998	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1779382116999	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1779382117000	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1779382121022	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1779382122730	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1779382133737	Sync.SyncScheduler	DEBUG	Network link status changed to "up". Offline?: false
+1779382133737	Sync.SyncScheduler	DEBUG	Network link looks up. Syncing.
+1779382133739	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1779382133740	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1779382133741	Sync.Service	DEBUG	User-Agent: Zen/1.19.12b (Linux x86_64) FxSync/1.152.0.20260507044029.desktop
+1779382133741	Sync.Service	INFO	Starting sync at 2026-05-21 18:48:53 in browser session Dj4nkTPHcMYK
+1779382133741	Sync.Service	DEBUG	In sync: should login.
+1779382133741	Sync.Service	INFO	User logged in successfully - verifying login.
+1779382133741	Sync.SyncAuthManager	DEBUG	unlockAndVerifyAuthState has no FxA user
+1779382133741	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1779382133741	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1779382133741	Sync.Service	DEBUG	Fetching unlocked auth state returned error.login.reason.no_username
+1779382133741	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1779382133742	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1779382133742	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1779382133742	Sync.Service	DEBUG	Exception calling WrappedLock: Error: Login failed: error.login.reason.no_username(resource://services-sync/service.sys.mjs:1061:15) JS Stack trace: onNotify@service.sys.mjs:1061:15
+1779382133742	Sync.Service	DEBUG	Not syncing: login returned false.
