@@ -1,0 +1,79 @@
+# Milk outside a bag of milk outside a bag of milk
+# btop theme
+
+# Main background, empty if terminal default
+theme[main_bg]="#0d0d14"
+
+# Main text color
+theme[main_fg]="#d4909a"
+
+# Title color for boxes
+theme[title]="#ac3332"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#ac3332"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#52263e"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#e8b4b8"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#5c3040"
+
+# Color of text appearing on top of graphs
+theme[graph_text]="#d4909a"
+
+# Background color of the "process details" popup
+theme[proc_misc]="#1a1020"
+
+# CPU box outline color
+theme[cpu_box]="#52263e"
+
+# Memory/disks box outline color
+theme[mem_box]="#52263e"
+
+# Net upload/download box outline color
+theme[net_box]="#52263e"
+
+# Processes box outline color
+theme[proc_box]="#52263e"
+
+# Box divider line and small boxes line color
+theme[div_line]="#3d1e2e"
+
+# Temperature graph color (low, mid, high)
+theme[temp_start]="#52263e"
+theme[temp_mid]="#ac3332"
+theme[temp_end]="#e8b4b8"
+
+# CPU graph color (usually two colors for a gradient-like effect)
+theme[cpu_start]="#52263e"
+theme[cpu_mid]="#ac3332"
+theme[cpu_end]="#e8b4b8"
+
+# Memory graph colors
+theme[mem_start]="#52263e"
+theme[mem_mid]="#7a3a5e"
+theme[mem_end]="#ac3332"
+
+# Swap graph colors
+theme[swap_start]="#3d1e2e"
+theme[swap_mid]="#52263e"
+theme[swap_end]="#ac3332"
+
+# Network download graph colors
+theme[download_start]="#52263e"
+theme[download_mid]="#7a3a5e"
+theme[download_end]="#ac3332"
+
+# Network upload graph colors
+theme[upload_start]="#3d1e2e"
+theme[upload_mid]="#52263e"
+theme[upload_end]="#c45555"
+
+# Process sorting colors
+theme[process_start]="#52263e"
+theme[process_mid]="#ac3332"
+theme[process_end]="#e8b4b8"
