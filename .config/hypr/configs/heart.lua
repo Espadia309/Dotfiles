@@ -16,8 +16,8 @@ hl.config({
 		gaps_out = 5,
 		border_size = 4,
 		col = {
-			active_border = "rgb(851200)",
-			inactive_border = "rgb(964A41)",
+			active_border = "rgb(AC3332)",
+			inactive_border = "rgb(52263E)",
 		},
 		resize_on_border = true,
 		layout = dwindle,
@@ -30,7 +30,7 @@ hl.config({
 			enabled = true,
 			range = 25,
 			render_power = 5,
-			color = "rgba(168, 0, 0, 0.49)",
+			color = "rgba(172, 51, 50, 0.49)",
 		},
 		blur = {
 			enabled = true,
@@ -54,25 +54,20 @@ hl.config({
 		new_status = master,
 	},
 })
-
 -- Curves
 hl.curve("fluent_decel", { type = "bezier", points = { { 0, 0.2 }, { 0.4, 1 } } })
 hl.curve("easeOutCubic", { type = "bezier", points = { { 0.33, 1 }, { 0.68, 1 } } })
 hl.curve("easeinoutsine", { type = "bezier", points = { { 0.37, 0 }, { 0.63, 1 } } })
-
 -- Windows
 hl.animation({ leaf = "windowsIn", enabled = true, speed = 1.5, bezier = "easeinoutsine", style = "popin 60%" })
 hl.animation({ leaf = "windowsOut", enabled = true, speed = 1.5, bezier = "easeOutCubic", style = "popin 60%" })
 hl.animation({ leaf = "windowsMove", enabled = true, speed = 1.5, bezier = "easeinoutsine", style = "slide" })
-
 -- Fading
 hl.animation({ leaf = "fade", enabled = true, speed = 2.5, bezier = "fluent_decel" })
 hl.animation({ leaf = "fadeLayersIn", enabled = false })
 hl.animation({ leaf = "border", enabled = false })
-
 -- Layers
 hl.animation({ leaf = "layers", enabled = true, speed = 1.5, bezier = "easeinoutsine", style = "popin" })
-
 -- Workspaces
 hl.animation({
 	leaf = "workspaces",
