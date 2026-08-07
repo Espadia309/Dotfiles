@@ -2,22 +2,38 @@
 CHOICE=$(printf "Wallpapers\nBrightness\nSystem" | rofi -dmenu -p "Menu")
 case $CHOICE in
 Wallpapers)
-  DIR=$HOME/.config/hypr/images/wallpapers
+  wall_dir="${HOME}/.config/hypr/images/wallpapers/"
+  cacheDir="${HOME}/.cache/jp/${theme}"
+  rofi_command="rofi -x11 -dmenu -theme ${HOME}/.config/rofi/wallSelect.rasi -theme-str ${rofi_override}"
 
-  WALLPAPER=$(
-    for img in "$DIR"/*; do
-      [ -e "$img" ] || continue
-      name=$(basename "$img")
-      echo -en "${name}\0icon\x1f${img}\n"
-    done | rofi -dmenu -p "Wallpapers" -show-icons \
-      -theme-str 'element-icon { size: 200px; }' \
-      -theme-str 'listview { columns: 4; lines: 2; }' \
-      -theme-str 'element { orientation: vertical; }'
-  )
+  # Create cache dir if not exists
+  if [ ! -d "${cacheDir}" ]; then
+    mkdir -p "${cacheDir}"
+  fi
 
-  [ -z "$WALLPAPER" ] && exit 0
+  physical_monitor_size=24
+  monitor_res=$(hyprctl monitors | grep -A2 Monitor | head -n 2 | awk '{print $1}' | grep -oE '^[0-9]+')
+  dotsperinch=$(echo "scale=2; $monitor_res / $physical_monitor_size" | bc | xargs printf "%.0f")
+  monitor_res=$(($monitor_res * $physical_monitor_size / $dotsperinch))
 
-  awww img --transition-type random "$DIR/$WALLPAPER"
+  rofi_override="element-icon{size:${monitor_res}px;border-radius:0px;}"
+
+  # Convert images in directory and save to cache dir
+  for imagen in "$wall_dir"/*.{jpg,jpeg,png,webp}; do
+    if [ -f "$imagen" ]; then
+      nombre_archivo=$(basename "$imagen")
+      if [ ! -f "${cacheDir}/${nombre_archivo}" ]; then
+        convert -strip "$imagen" -thumbnail 500x500^ -gravity center -extent 500x500 "${cacheDir}/${nombre_archivo}"
+      fi
+    fi
+  done
+
+  # Select a picture with rofi
+  wall_selection=$(find "${wall_dir}" -maxdepth 1 -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.webp" \) -exec basename {} \; | sort | while read -r A; do echo -en "$A\x00icon\x1f""${cacheDir}"/"$A\n"; done | $rofi_command)
+
+  # Set the wallpaper
+  [[ -n "$wall_selection" ]] || exit 1
+  awww img --transition-type random ${wall_dir}/${wall_selection}
   ;;
 Brightness)
   DISPLAY=$(printf "AOC (Display 1)\nASUS (Display 2)\nBoth" | rofi -dmenu -p "Which monitor?")
