@@ -9,7 +9,8 @@
   "margin-left": 370,
   "modules-left": [
     "hyprland/workspaces",
-    "sway/workspaces"
+    "sway/workspaces",
+    "custom/media"
   ],
   "modules-center": [
     "custom/applauncher"
@@ -36,6 +37,21 @@
     "on-click": "pgrep rofi >/dev/null 2>&1 && killall rofi || rofi --show drun --location=top -y 10",
     "tooltip": false
   },
+  "custom/media": {
+  "format": "{icon} {text}",
+  "return-type": "json",
+  "max-length": 40,
+  "format-icons": {
+    "Playing": "󰐊",
+    "Paused": "󰏤"
+  },
+  "escape": true,
+  "exec": "$HOME/.config/waybar/scripts/mediaplayer.sh",
+  "on-click": "playerctl play-pause",
+  "on-scroll-up": "playerctl next",
+  "on-scroll-down": "playerctl previous",
+  "tooltip": false
+},
   "tray": {
     "spacing": 10,
     "tooltip": false

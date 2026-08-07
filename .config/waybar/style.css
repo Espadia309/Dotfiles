@@ -114,3 +114,27 @@ window#waybar {
 #workspaces button.urgent {
   color: #ff4040; /* bright red for urgent */
 }
+
+/* media player thing */
+#custom-media {
+  background-color: rgba(180, 0, 40, 0.2);
+  margin: 6px;
+  margin-right: 0px;
+  padding: 6px 10px;
+  border-radius: 8px;
+  color: #f0c0d0;
+  border-style: solid;
+  border-color: #f0c0d0;
+  border-width: 1px;
+  transition-duration: 120ms;
+}
+#custom-media:hover {
+  background-color: rgba(200, 0, 60, 0.7);
+  color: #f0c0d0;
+}
+#custom-media.Playing {
+  color: #f0c0d0;
+}
+#custom-media.Paused {
+  color: #a03060;
+}
