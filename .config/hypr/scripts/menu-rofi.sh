@@ -1,11 +1,8 @@
 #!/bin/bash
 
-CHOICE=$(printf "Themes\nWallpapers\nBrightness\nSystem" | rofi -dmenu -p "Menu")
+CHOICE=$(printf "Wallpapers\nBrightness\nSystem" | rofi -dmenu -p "Menu")
 
 case $CHOICE in
-Themes)
-  #trucs
-  ;;
 Wallpapers)
   DIR=$HOME/.config/hypr/images/wallpapers
   WALLPAPER=$(ls "$DIR" | rofi -dmenu -p "Wallpapers")

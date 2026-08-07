@@ -113,3 +113,551 @@
 2026-04-06T21:37:20 player: played "Feldup & The Showerheads/A Thousand Doors, Just One Key/11 - Paris I Hate You.mp3"
 2026-04-07T17:51:10 player: played "Feldup & The Showerheads/A Thousand Doors, Just One Key/11 - Paris I Hate You.mp3"
 2026-04-07T21:37:26 player: played "Feldup & The Showerheads/A Thousand Doors, Just One Key/11 - Paris I Hate You.mp3"
+2026-08-05T05:09:25 exception: Failed to decode "/home/espadia/music/Feldup & The Showerheads/A Thousand Doors, Just One Key/11 - Paris I Hate You.mp3"; Failed to open "/home/espadia/music/Feldup & The Showerheads/A Thousand Doors, Just One Key/11 - Paris I Hate You.mp3": No such file or directory
+2026-08-05T05:09:25 player: played "Feldup & The Showerheads/A Thousand Doors, Just One Key/11 - Paris I Hate You.mp3"
+2026-08-05T05:12:48 update: added Feldup/A thousand doors, just one key/1 - Century Long Fire.mp3
+2026-08-05T05:12:48 update: added Feldup/A thousand doors, just one key/2 - Falling Apart.mp3
+2026-08-05T05:12:48 update: added Feldup/A thousand doors, just one key/3 - Attention.mp3
+2026-08-05T05:12:48 update: added Feldup/A thousand doors, just one key/4 - Take It Slow.mp3
+2026-08-05T05:12:48 update: added Feldup/A thousand doors, just one key/5 - A Little Less Cold.mp3
+2026-08-05T05:12:48 update: added Feldup/A thousand doors, just one key/6 - Mental Health.mp3
+2026-08-05T05:12:48 update: added Feldup/A thousand doors, just one key/7 - So Heavy.mp3
+2026-08-05T05:12:48 update: added Feldup/A thousand doors, just one key/8 - The Spiral.mp3
+2026-08-05T05:12:48 update: added Feldup/A thousand doors, just one key/9 - Almost Gave Up.mp3
+2026-08-05T05:12:48 update: added Feldup/A thousand doors, just one key/10 - Stockholm.mp3
+2026-08-05T05:12:48 update: added Feldup/A thousand doors, just one key/11 - Paris I Hate You.mp3
+2026-08-05T05:23:35 update: added Feldup/Stared at From a Distance/1 - Waters.mp3
+2026-08-05T05:23:35 update: added Feldup/Stared at From a Distance/2 - Stared At from a Distance.mp3
+2026-08-05T05:23:35 update: added Feldup/Stared at From a Distance/3 - Naked and Afraid.mp3
+2026-08-05T05:23:35 update: added Feldup/Stared at From a Distance/4 - Dizzy.mp3
+2026-08-05T05:23:35 update: added Feldup/Stared at From a Distance/5 - Fear of Abandonment.mp3
+2026-08-05T05:23:35 update: added Feldup/Stared at From a Distance/6 - Shove it.mp3
+2026-08-05T05:23:35 update: added Feldup/Stared at From a Distance/7 - Moments of Sobriety.mp3
+2026-08-05T05:23:35 update: added Feldup/Stared at From a Distance/8 - Crying as a Weapon.mp3
+2026-08-05T05:23:35 update: added Feldup/Stared at From a Distance/9 - Death of an Illusion.mp3
+2026-08-05T05:23:35 update: added Feldup/Stared at From a Distance/10 - It Never Leaves.mp3
+2026-08-05T05:23:35 update: added Feldup/Stared at From a Distance/11 - To Love Again.mp3
+2026-08-05T05:28:43 update: removing Feldup & The Showerheads/A Thousand Doors, Just One Key/9 - Almost Gave Up.mp3
+2026-08-05T05:28:43 update: removing Feldup & The Showerheads/A Thousand Doors, Just One Key/8 - The Spiral.mp3
+2026-08-05T05:28:43 update: removing Feldup & The Showerheads/A Thousand Doors, Just One Key/7 - So Heavy.mp3
+2026-08-05T05:28:43 update: removing Feldup & The Showerheads/A Thousand Doors, Just One Key/6 - Mental Health.mp3
+2026-08-05T05:28:43 update: removing Feldup & The Showerheads/A Thousand Doors, Just One Key/5 - A Little Less Cold.mp3
+2026-08-05T05:28:43 update: removing Feldup & The Showerheads/A Thousand Doors, Just One Key/4 - Take It Slow.mp3
+2026-08-05T05:28:43 update: removing Feldup & The Showerheads/A Thousand Doors, Just One Key/3 - Attention.mp3
+2026-08-05T05:28:43 update: removing Feldup & The Showerheads/A Thousand Doors, Just One Key/2 - Falling Apart.mp3
+2026-08-05T05:28:43 update: removing Feldup & The Showerheads/A Thousand Doors, Just One Key/11 - Paris I Hate You.mp3
+2026-08-05T05:28:43 update: removing Feldup & The Showerheads/A Thousand Doors, Just One Key/10 - Stockholm.mp3
+2026-08-05T05:28:43 update: removing Feldup & The Showerheads/A Thousand Doors, Just One Key/1 - Century Long Fire.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/A thousand doors, just one key/1 - Century Long Fire.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/A thousand doors, just one key/2 - Falling Apart.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/A thousand doors, just one key/3 - Attention.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/A thousand doors, just one key/4 - Take It Slow.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/A thousand doors, just one key/5 - A Little Less Cold.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/A thousand doors, just one key/6 - Mental Health.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/A thousand doors, just one key/7 - So Heavy.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/A thousand doors, just one key/8 - The Spiral.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/A thousand doors, just one key/9 - Almost Gave Up.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/A thousand doors, just one key/10 - Stockholm.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/A thousand doors, just one key/11 - Paris I Hate You.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/Stared at From a Distance/1 - Waters.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/Stared at From a Distance/2 - Stared At from a Distance.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/Stared at From a Distance/3 - Naked and Afraid.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/Stared at From a Distance/4 - Dizzy.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/Stared at From a Distance/5 - Fear of Abandonment.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/Stared at From a Distance/6 - Shove it.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/Stared at From a Distance/7 - Moments of Sobriety.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/Stared at From a Distance/8 - Crying as a Weapon.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/Stared at From a Distance/9 - Death of an Illusion.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/Stared at From a Distance/10 - It Never Leaves.mp3
+2026-08-05T05:29:11 update: added Feldup and the Showerheads/Stared at From a Distance/11 - To Love Again.mp3
+2026-08-05T05:29:11 update: removing Feldup/Stared at From a Distance/5 - Fear of Abandonment.mp3
+2026-08-05T05:29:11 update: removing Feldup/Stared at From a Distance/4 - Dizzy.mp3
+2026-08-05T05:29:11 update: removing Feldup/Stared at From a Distance/3 - Naked and Afraid.mp3
+2026-08-05T05:29:11 update: removing Feldup/Stared at From a Distance/2 - Stared At from a Distance.mp3
+2026-08-05T05:29:11 update: removing Feldup/Stared at From a Distance/10 - It Never Leaves.mp3
+2026-08-05T05:29:11 update: removing Feldup/Stared at From a Distance/9 - Death of an Illusion.mp3
+2026-08-05T05:29:11 update: removing Feldup/Stared at From a Distance/8 - Crying as a Weapon.mp3
+2026-08-05T05:29:11 update: removing Feldup/Stared at From a Distance/7 - Moments of Sobriety.mp3
+2026-08-05T05:29:11 update: removing Feldup/Stared at From a Distance/6 - Shove it.mp3
+2026-08-05T05:29:11 update: removing Feldup/Stared at From a Distance/11 - To Love Again.mp3
+2026-08-05T05:29:11 update: removing Feldup/Stared at From a Distance/1 - Waters.mp3
+2026-08-05T05:29:11 update: removing Feldup/A thousand doors, just one key/9 - Almost Gave Up.mp3
+2026-08-05T05:29:11 update: removing Feldup/A thousand doors, just one key/8 - The Spiral.mp3
+2026-08-05T05:29:11 update: removing Feldup/A thousand doors, just one key/7 - So Heavy.mp3
+2026-08-05T05:29:11 update: removing Feldup/A thousand doors, just one key/6 - Mental Health.mp3
+2026-08-05T05:29:11 update: removing Feldup/A thousand doors, just one key/5 - A Little Less Cold.mp3
+2026-08-05T05:29:11 update: removing Feldup/A thousand doors, just one key/4 - Take It Slow.mp3
+2026-08-05T05:29:11 update: removing Feldup/A thousand doors, just one key/3 - Attention.mp3
+2026-08-05T05:29:11 update: removing Feldup/A thousand doors, just one key/2 - Falling Apart.mp3
+2026-08-05T05:29:11 update: removing Feldup/A thousand doors, just one key/11 - Paris I Hate You.mp3
+2026-08-05T05:29:11 update: removing Feldup/A thousand doors, just one key/10 - Stockholm.mp3
+2026-08-05T05:29:11 update: removing Feldup/A thousand doors, just one key/1 - Century Long Fire.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/A thousand doors, just one key/1 - Century Long Fire.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/A thousand doors, just one key/2 - Falling Apart.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/A thousand doors, just one key/3 - Attention.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/A thousand doors, just one key/4 - Take It Slow.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/A thousand doors, just one key/5 - A Little Less Cold.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/A thousand doors, just one key/6 - Mental Health.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/A thousand doors, just one key/7 - So Heavy.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/A thousand doors, just one key/8 - The Spiral.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/A thousand doors, just one key/9 - Almost Gave Up.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/A thousand doors, just one key/10 - Stockholm.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/A thousand doors, just one key/11 - Paris I Hate You.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/Stared at From a Distance/1 - Waters.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/Stared at From a Distance/2 - Stared At from a Distance.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/Stared at From a Distance/3 - Naked and Afraid.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/Stared at From a Distance/4 - Dizzy.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/Stared at From a Distance/5 - Fear of Abandonment.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/Stared at From a Distance/6 - Shove it.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/Stared at From a Distance/7 - Moments of Sobriety.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/Stared at From a Distance/8 - Crying as a Weapon.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/Stared at From a Distance/9 - Death of an Illusion.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/Stared at From a Distance/10 - It Never Leaves.mp3
+2026-08-05T05:29:29 update: added Feldup & the Showerheads/Stared at From a Distance/11 - To Love Again.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/Stared at From a Distance/5 - Fear of Abandonment.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/Stared at From a Distance/4 - Dizzy.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/Stared at From a Distance/3 - Naked and Afraid.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/Stared at From a Distance/2 - Stared At from a Distance.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/Stared at From a Distance/10 - It Never Leaves.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/Stared at From a Distance/9 - Death of an Illusion.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/Stared at From a Distance/8 - Crying as a Weapon.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/Stared at From a Distance/7 - Moments of Sobriety.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/Stared at From a Distance/6 - Shove it.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/Stared at From a Distance/11 - To Love Again.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/Stared at From a Distance/1 - Waters.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/A thousand doors, just one key/9 - Almost Gave Up.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/A thousand doors, just one key/8 - The Spiral.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/A thousand doors, just one key/7 - So Heavy.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/A thousand doors, just one key/6 - Mental Health.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/A thousand doors, just one key/5 - A Little Less Cold.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/A thousand doors, just one key/4 - Take It Slow.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/A thousand doors, just one key/3 - Attention.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/A thousand doors, just one key/2 - Falling Apart.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/A thousand doors, just one key/11 - Paris I Hate You.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/A thousand doors, just one key/10 - Stockholm.mp3
+2026-08-05T05:29:29 update: removing Feldup and the Showerheads/A thousand doors, just one key/1 - Century Long Fire.mp3
+2026-08-05T05:36:37 update: added STOMACH BOOK/GOODNIGHT HYPNOPOMP/1 - FUKOUNA GIRL.mp3
+2026-08-05T05:36:37 update: added STOMACH BOOK/GOODNIGHT HYPNOPOMP/2 - My Diorama.mp3
+2026-08-05T05:36:37 update: added STOMACH BOOK/GOODNIGHT HYPNOPOMP/3 - SICK SICK SICK.mp3
+2026-08-05T05:36:37 update: added STOMACH BOOK/GOODNIGHT HYPNOPOMP/4 - Running Away.mp3
+2026-08-05T05:36:37 update: added STOMACH BOOK/GOODNIGHT HYPNOPOMP/5 - Paper Dolls.mp3
+2026-08-05T05:36:37 update: added STOMACH BOOK/GOODNIGHT HYPNOPOMP/6 - BAMBI.mp3
+2026-08-05T05:36:37 update: added STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3
+2026-08-05T05:36:37 update: added STOMACH BOOK/GOODNIGHT HYPNOPOMP/8 - Nothing Special.mp3
+2026-08-05T05:36:37 update: added STOMACH BOOK/GOODNIGHT HYPNOPOMP/9 - Let You Down.mp3
+2026-08-05T05:36:37 update: added STOMACH BOOK/GOODNIGHT HYPNOPOMP/10 - Its Magic!.mp3
+2026-08-05T14:51:40 exception: Failed to open /home/espadia/music/playlists: No such file or directory
+2026-08-05T14:51:56 exception: Failed to open /home/espadia/music/playlists: No such file or directory
+2026-08-05T15:01:26 update: added femtanyl/MAN BITES DOG/1 - BODY THE PISTOL.mp3
+2026-08-05T15:01:26 update: added femtanyl/MAN BITES DOG/2 - VIDEO NASTY.mp3
+2026-08-05T15:01:26 update: added femtanyl/MAN BITES DOG/3 - SICK OF IT.mp3
+2026-08-05T15:01:26 update: added femtanyl/MAN BITES DOG/4 - HELLTARGET.mp3
+2026-08-05T15:01:26 update: added femtanyl/MAN BITES DOG/5 - CITY.mp3
+2026-08-05T15:01:26 update: added femtanyl/MAN BITES DOG/6 - HEAD UP.mp3
+2026-08-05T15:01:26 update: added femtanyl/MAN BITES DOG/7 - MY HEAD HURTS.mp3
+2026-08-05T15:01:26 update: added femtanyl/MAN BITES DOG/8 - SHOWS YOU THE WAY TO THE HIWAY.mp3
+2026-08-05T15:01:26 update: added femtanyl/MAN BITES DOG/9 - MAN BITES DOG.mp3
+2026-08-05T15:01:26 update: added femtanyl/MAN BITES DOG/10 - IS THIS IT.mp3
+2026-08-05T15:01:26 update: added femtanyl/DINNER!.mp3
+2026-08-05T15:01:26 update: added femtanyl/GIRL HELL 1999.mp3
+2026-08-05T15:01:26 update: added femtanyl/KATAMARI.mp3
+2026-08-05T15:01:26 update: added femtanyl/LOVESICK, CANNIBAL!.mp3
+2026-08-05T15:01:26 update: added femtanyl/MAGFEST.mp3
+2026-08-05T15:01:26 update: added femtanyl/NASTYWERKKKK!.mp3
+2026-08-05T15:01:26 update: added femtanyl/P3T.mp3
+2026-08-05T15:01:26 update: added femtanyl/PUSH UR T3MPRR.mp3
+2026-08-05T15:08:11 update: added femtanyl/AND IM GONE.mp3
+2026-08-05T15:08:11 update: added femtanyl/ATTACKING VERTICAL.mp3
+2026-08-05T15:08:11 update: added femtanyl/DOGMATICA.mp3
+2026-08-05T15:08:11 update: added femtanyl/I MIGHT B3 SICK.mp3
+2026-08-05T15:08:11 update: added femtanyl/ITS TIME.mp3
+2026-08-05T15:08:11 update: added femtanyl/M3 N MIN3.mp3
+2026-08-05T15:08:11 update: added femtanyl/MURDER EVERY 1 U KNOW! (feat. takihasdied).mp3
+2026-08-05T15:08:11 update: added femtanyl/WAR GIRL.mp3
+2026-08-05T15:08:11 update: added femtanyl/WEIGHTLESS!.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/AND IM GONE.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/ATTACKING VERTICAL.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/DINNER!.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/DOGMATICA.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/GIRL HELL 1999.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/I MIGHT B3 SICK.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/ITS TIME.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/KATAMARI.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/LOVESICK, CANNIBAL!.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/M3 N MIN3.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/NASTYWERKKKK!.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/P3T.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/PUSH UR T3MPRR.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/WAR GIRL.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/WEIGHTLESS!.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/MAGFEST.mp3
+2026-08-05T15:10:04 update: added femtanyl/autres/MURDER EVERY 1 U KNOW! (feat. takihasdied).mp3
+2026-08-05T15:10:04 update: removing femtanyl/WEIGHTLESS!.mp3
+2026-08-05T15:10:04 update: removing femtanyl/WAR GIRL.mp3
+2026-08-05T15:10:04 update: removing femtanyl/PUSH UR T3MPRR.mp3
+2026-08-05T15:10:04 update: removing femtanyl/P3T.mp3
+2026-08-05T15:10:04 update: removing femtanyl/NASTYWERKKKK!.mp3
+2026-08-05T15:10:04 update: removing femtanyl/MURDER EVERY 1 U KNOW! (feat. takihasdied).mp3
+2026-08-05T15:10:04 update: removing femtanyl/MAGFEST.mp3
+2026-08-05T15:10:04 update: removing femtanyl/M3 N MIN3.mp3
+2026-08-05T15:10:04 update: removing femtanyl/LOVESICK, CANNIBAL!.mp3
+2026-08-05T15:10:04 update: removing femtanyl/KATAMARI.mp3
+2026-08-05T15:10:04 update: removing femtanyl/ITS TIME.mp3
+2026-08-05T15:10:04 update: removing femtanyl/I MIGHT B3 SICK.mp3
+2026-08-05T15:10:04 update: removing femtanyl/GIRL HELL 1999.mp3
+2026-08-05T15:10:04 update: removing femtanyl/DOGMATICA.mp3
+2026-08-05T15:10:04 update: removing femtanyl/DINNER!.mp3
+2026-08-05T15:10:04 update: removing femtanyl/ATTACKING VERTICAL.mp3
+2026-08-05T15:10:04 update: removing femtanyl/AND IM GONE.mp3
+2026-08-05T15:10:04 exception: Failed to open /home/espadia/music/playlists: No such file or directory
+2026-08-05T15:10:04 exception: Failed to open /home/espadia/music/playlists: No such file or directory
+2026-08-05T15:10:06 exception: Failed to open /home/espadia/music/playlists: No such file or directory
+2026-08-05T22:27:49 exception: Failed to open /home/espadia/music/playlists: No such file or directory
+2026-08-05T22:28:23 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/8 - Nothing Special.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/8 - Nothing Special.mp3": No such file or directory
+2026-08-05T22:28:23 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/8 - Nothing Special.mp3"
+2026-08-05T22:28:23 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/9 - Let You Down.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/9 - Let You Down.mp3": No such file or directory
+2026-08-05T22:28:23 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/9 - Let You Down.mp3"
+2026-08-05T22:28:23 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/1 - FUKOUNA GIRL.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/1 - FUKOUNA GIRL.mp3": No such file or directory
+2026-08-05T22:28:23 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/1 - FUKOUNA GIRL.mp3"
+2026-08-05T22:28:23 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/10 - Its Magic!.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/10 - Its Magic!.mp3": No such file or directory
+2026-08-05T22:28:23 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/10 - Its Magic!.mp3"
+2026-08-05T22:28:23 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/2 - My Diorama.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/2 - My Diorama.mp3": No such file or directory
+2026-08-05T22:28:23 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/2 - My Diorama.mp3"
+2026-08-05T22:28:23 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/3 - SICK SICK SICK.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/3 - SICK SICK SICK.mp3": No such file or directory
+2026-08-05T22:28:23 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/3 - SICK SICK SICK.mp3"
+2026-08-05T22:28:23 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/4 - Running Away.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/4 - Running Away.mp3": No such file or directory
+2026-08-05T22:28:23 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/4 - Running Away.mp3"
+2026-08-05T22:28:23 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/5 - Paper Dolls.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/5 - Paper Dolls.mp3": No such file or directory
+2026-08-05T22:28:23 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/5 - Paper Dolls.mp3"
+2026-08-05T22:28:23 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/6 - BAMBI.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/6 - BAMBI.mp3": No such file or directory
+2026-08-05T22:28:23 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/6 - BAMBI.mp3"
+2026-08-05T22:28:23 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3": No such file or directory
+2026-08-05T22:28:23 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3"
+2026-08-05T22:28:26 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3": No such file or directory
+2026-08-05T22:28:26 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3"
+2026-08-05T22:28:26 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/8 - Nothing Special.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/8 - Nothing Special.mp3": No such file or directory
+2026-08-05T22:28:26 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/8 - Nothing Special.mp3"
+2026-08-05T22:28:26 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/9 - Let You Down.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/9 - Let You Down.mp3": No such file or directory
+2026-08-05T22:28:26 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/9 - Let You Down.mp3"
+2026-08-05T22:28:26 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/1 - FUKOUNA GIRL.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/1 - FUKOUNA GIRL.mp3": No such file or directory
+2026-08-05T22:28:26 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/1 - FUKOUNA GIRL.mp3"
+2026-08-05T22:28:26 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/10 - Its Magic!.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/10 - Its Magic!.mp3": No such file or directory
+2026-08-05T22:28:26 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/10 - Its Magic!.mp3"
+2026-08-05T22:28:26 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/2 - My Diorama.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/2 - My Diorama.mp3": No such file or directory
+2026-08-05T22:28:26 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/2 - My Diorama.mp3"
+2026-08-05T22:28:26 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/3 - SICK SICK SICK.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/3 - SICK SICK SICK.mp3": No such file or directory
+2026-08-05T22:28:26 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/3 - SICK SICK SICK.mp3"
+2026-08-05T22:28:26 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/4 - Running Away.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/4 - Running Away.mp3": No such file or directory
+2026-08-05T22:28:26 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/4 - Running Away.mp3"
+2026-08-05T22:28:26 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/5 - Paper Dolls.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/5 - Paper Dolls.mp3": No such file or directory
+2026-08-05T22:28:26 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/5 - Paper Dolls.mp3"
+2026-08-05T22:28:26 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/6 - BAMBI.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/6 - BAMBI.mp3": No such file or directory
+2026-08-05T22:28:26 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/6 - BAMBI.mp3"
+2026-08-05T22:28:26 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3": No such file or directory
+2026-08-05T22:28:26 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/8 - Nothing Special.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/8 - Nothing Special.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/8 - Nothing Special.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/9 - Let You Down.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/9 - Let You Down.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/9 - Let You Down.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/1 - FUKOUNA GIRL.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/1 - FUKOUNA GIRL.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/1 - FUKOUNA GIRL.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/10 - Its Magic!.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/10 - Its Magic!.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/10 - Its Magic!.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/2 - My Diorama.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/2 - My Diorama.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/2 - My Diorama.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/3 - SICK SICK SICK.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/3 - SICK SICK SICK.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/3 - SICK SICK SICK.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/4 - Running Away.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/4 - Running Away.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/4 - Running Away.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/5 - Paper Dolls.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/5 - Paper Dolls.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/5 - Paper Dolls.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/6 - BAMBI.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/6 - BAMBI.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/6 - BAMBI.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/8 - Nothing Special.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/8 - Nothing Special.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/8 - Nothing Special.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/9 - Let You Down.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/9 - Let You Down.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/9 - Let You Down.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/1 - FUKOUNA GIRL.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/1 - FUKOUNA GIRL.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/1 - FUKOUNA GIRL.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/10 - Its Magic!.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/10 - Its Magic!.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/10 - Its Magic!.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/2 - My Diorama.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/2 - My Diorama.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/2 - My Diorama.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/3 - SICK SICK SICK.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/3 - SICK SICK SICK.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/3 - SICK SICK SICK.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/4 - Running Away.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/4 - Running Away.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/4 - Running Away.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/5 - Paper Dolls.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/5 - Paper Dolls.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/5 - Paper Dolls.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/6 - BAMBI.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/6 - BAMBI.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/6 - BAMBI.mp3"
+2026-08-05T22:28:33 exception: Failed to decode "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3"; Failed to open "/home/espadia/music/STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3": No such file or directory
+2026-08-05T22:28:33 player: played "STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3"
+2026-08-05T22:34:11 update: added femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 01 - BODY THE PISTOL.flac
+2026-08-05T22:34:11 update: added femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 02 - VIDEO NASTY.flac
+2026-08-05T22:34:11 update: added femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 03 - SICK OF IT.flac
+2026-08-05T22:34:11 update: added femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 04 - HELLTARGET.flac
+2026-08-05T22:34:11 update: added femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 05 - CITY.flac
+2026-08-05T22:34:11 update: added femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 06 - HEAD UP.flac
+2026-08-05T22:34:11 update: added femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 07 - MY HEAD HURTS.flac
+2026-08-05T22:34:11 update: added femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 09 - MAN BITES DOG.flac
+2026-08-05T22:34:11 update: added femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 08 - SHOWS YOU THE WAY TO THE HIWAY.flac
+2026-08-05T22:34:11 update: added femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 10 - IS THIS IT.flac
+2026-08-05T22:34:11 update: removing femtanyl/MAN BITES DOG/9 - MAN BITES DOG.mp3
+2026-08-05T22:34:11 update: removing femtanyl/MAN BITES DOG/8 - SHOWS YOU THE WAY TO THE HIWAY.mp3
+2026-08-05T22:34:11 update: removing femtanyl/MAN BITES DOG/7 - MY HEAD HURTS.mp3
+2026-08-05T22:34:11 update: removing femtanyl/MAN BITES DOG/6 - HEAD UP.mp3
+2026-08-05T22:34:11 update: removing femtanyl/MAN BITES DOG/5 - CITY.mp3
+2026-08-05T22:34:11 update: removing femtanyl/MAN BITES DOG/4 - HELLTARGET.mp3
+2026-08-05T22:34:11 update: removing femtanyl/MAN BITES DOG/3 - SICK OF IT.mp3
+2026-08-05T22:34:11 update: removing femtanyl/MAN BITES DOG/2 - VIDEO NASTY.mp3
+2026-08-05T22:34:11 update: removing femtanyl/MAN BITES DOG/10 - IS THIS IT.mp3
+2026-08-05T22:34:11 update: removing femtanyl/MAN BITES DOG/1 - BODY THE PISTOL.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/WEIGHTLESS!.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/WAR GIRL.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/PUSH UR T3MPRR.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/P3T.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/NASTYWERKKKK!.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/MURDER EVERY 1 U KNOW! (feat. takihasdied).mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/MAGFEST.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/M3 N MIN3.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/LOVESICK, CANNIBAL!.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/KATAMARI.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/ITS TIME.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/I MIGHT B3 SICK.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/GIRL HELL 1999.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/DOGMATICA.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/DINNER!.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/ATTACKING VERTICAL.mp3
+2026-08-05T22:34:11 update: removing femtanyl/autres/AND IM GONE.mp3
+2026-08-05T22:34:29 update: added STOMACH BOOK/[2025] GOODNIGHT HYPNOPOMP/01 - FUKOUNA GIRL.flac
+2026-08-05T22:34:29 update: added STOMACH BOOK/[2025] GOODNIGHT HYPNOPOMP/02 - My Diorama.flac
+2026-08-05T22:34:29 update: added STOMACH BOOK/[2025] GOODNIGHT HYPNOPOMP/03 - SICK SICK SICK.flac
+2026-08-05T22:34:29 update: added STOMACH BOOK/[2025] GOODNIGHT HYPNOPOMP/04 - Running Away.flac
+2026-08-05T22:34:29 update: added STOMACH BOOK/[2025] GOODNIGHT HYPNOPOMP/05 - Paper Dolls.flac
+2026-08-05T22:34:29 update: added STOMACH BOOK/[2025] GOODNIGHT HYPNOPOMP/06 - BAMBI.flac
+2026-08-05T22:34:29 update: added STOMACH BOOK/[2025] GOODNIGHT HYPNOPOMP/07 - But Not For Me.flac
+2026-08-05T22:34:29 update: added STOMACH BOOK/[2025] GOODNIGHT HYPNOPOMP/08 - Nothing Special.flac
+2026-08-05T22:34:29 update: added STOMACH BOOK/[2025] GOODNIGHT HYPNOPOMP/09 - Let You Down.flac
+2026-08-05T22:34:29 update: added STOMACH BOOK/[2025] GOODNIGHT HYPNOPOMP/10 - It's Magic!.flac
+2026-08-05T22:34:29 update: removing STOMACH BOOK/GOODNIGHT HYPNOPOMP/9 - Let You Down.mp3
+2026-08-05T22:34:29 update: removing STOMACH BOOK/GOODNIGHT HYPNOPOMP/8 - Nothing Special.mp3
+2026-08-05T22:34:29 update: removing STOMACH BOOK/GOODNIGHT HYPNOPOMP/7 - But Not For Me.mp3
+2026-08-05T22:34:29 update: removing STOMACH BOOK/GOODNIGHT HYPNOPOMP/6 - BAMBI.mp3
+2026-08-05T22:34:29 update: removing STOMACH BOOK/GOODNIGHT HYPNOPOMP/5 - Paper Dolls.mp3
+2026-08-05T22:34:29 update: removing STOMACH BOOK/GOODNIGHT HYPNOPOMP/4 - Running Away.mp3
+2026-08-05T22:34:29 update: removing STOMACH BOOK/GOODNIGHT HYPNOPOMP/3 - SICK SICK SICK.mp3
+2026-08-05T22:34:29 update: removing STOMACH BOOK/GOODNIGHT HYPNOPOMP/2 - My Diorama.mp3
+2026-08-05T22:34:29 update: removing STOMACH BOOK/GOODNIGHT HYPNOPOMP/10 - Its Magic!.mp3
+2026-08-05T22:34:29 update: removing STOMACH BOOK/GOODNIGHT HYPNOPOMP/1 - FUKOUNA GIRL.mp3
+2026-08-05T22:42:43 update: added femtanyl/autres (a trier)/05 - ATTACKING VERTICAL.flac
+2026-08-05T22:42:43 update: added femtanyl/autres (a trier)/05 - MURDER EVERY 1 U KNOW! (feat. takihasdied).flac
+2026-08-05T22:42:43 update: added femtanyl/autres (a trier)/06 - AND I'M GONE.flac
+2026-08-05T22:42:43 update: added femtanyl/autres (a trier)/06 - GIRL HELL 1999.flac
+2026-08-05T22:42:43 update: added femtanyl/autres (a trier)/femtanyl - DOGMATICA.flac
+2026-08-05T22:42:43 update: added femtanyl/autres (a trier)/femtanyl - I MIGHT B3 SICK.flac
+2026-08-05T22:42:43 update: added femtanyl/autres (a trier)/femtanyl - LOVESICK, CANNIBAL!.flac
+2026-08-05T22:42:43 update: added femtanyl/autres (a trier)/femtanyl - MIX. 01. - PICKMEUP!.flac
+2026-08-05T22:42:43 update: added femtanyl/autres (a trier)/femtanyl - S33K H3LP.flac
+2026-08-05T22:42:43 update: added femtanyl/autres (a trier)/femtanyl - WORLDWID3 (feat. zombAe).flac
+2026-08-05T22:42:43 update: added femtanyl/autres (a trier)/NASTYWERKKKK!.flac
+2026-08-05T22:42:51 update: added femtanyl/autres (a trier)/01 - ACT RIGHT.flac
+2026-08-05T22:42:51 update: added femtanyl/autres (a trier)/01 - IT'S TIME.flac
+2026-08-05T22:42:51 update: added femtanyl/autres (a trier)/02 - P3T.flac
+2026-08-05T22:42:51 update: added femtanyl/autres (a trier)/02 - WEIGHTLESS!.flac
+2026-08-05T22:42:51 update: added femtanyl/autres (a trier)/03 - DINNER!.flac
+2026-08-05T22:42:51 update: added femtanyl/autres (a trier)/03 - PUSH UR T3MPRR.flac
+2026-08-05T22:42:51 update: added femtanyl/autres (a trier)/04 - KATAMARI.flac
+2026-08-05T22:42:51 update: added femtanyl/autres (a trier)/04 - M3 N MIN3 (feat. Danny Brown).flac
+2026-08-05T22:43:17 update: removing femtanyl/autres (a trier)/01 - ACT RIGHT.flac
+2026-08-05T22:43:17 update: added femtanyl/CHASER/01 - ACT RIGHT.flac
+2026-08-05T22:43:39 update: removing femtanyl/autres (a trier)/06 - GIRL HELL 1999.flac
+2026-08-05T22:43:39 update: removing femtanyl/autres (a trier)/05 - MURDER EVERY 1 U KNOW! (feat. takihasdied).flac
+2026-08-05T22:43:39 update: removing femtanyl/autres (a trier)/04 - KATAMARI.flac
+2026-08-05T22:43:39 update: removing femtanyl/autres (a trier)/03 - PUSH UR T3MPRR.flac
+2026-08-05T22:43:39 update: removing femtanyl/autres (a trier)/02 - P3T.flac
+2026-08-05T22:43:39 update: added femtanyl/CHASER/02 - P3T.flac
+2026-08-05T22:43:39 update: added femtanyl/CHASER/03 - PUSH UR T3MPRR.flac
+2026-08-05T22:43:39 update: added femtanyl/CHASER/04 - KATAMARI.flac
+2026-08-05T22:43:39 update: added femtanyl/CHASER/05 - MURDER EVERY 1 U KNOW! (feat. takihasdied).flac
+2026-08-05T22:43:39 update: added femtanyl/CHASER/06 - GIRL HELL 1999.flac
+2026-08-05T22:44:50 update: removing femtanyl/autres (a trier)/06 - AND I'M GONE.flac
+2026-08-05T22:44:50 update: removing femtanyl/autres (a trier)/05 - ATTACKING VERTICAL.flac
+2026-08-05T22:44:50 update: removing femtanyl/autres (a trier)/04 - M3 N MIN3 (feat. Danny Brown).flac
+2026-08-05T22:44:50 update: removing femtanyl/autres (a trier)/03 - DINNER!.flac
+2026-08-05T22:44:50 update: removing femtanyl/autres (a trier)/02 - WEIGHTLESS!.flac
+2026-08-05T22:44:50 update: removing femtanyl/autres (a trier)/01 - IT'S TIME.flac
+2026-08-05T22:44:50 update: added femtanyl/REACTOR/01 - IT'S TIME.flac
+2026-08-05T22:44:50 update: added femtanyl/REACTOR/02 - WEIGHTLESS!.flac
+2026-08-05T22:44:50 update: added femtanyl/REACTOR/03 - DINNER!.flac
+2026-08-05T22:44:50 update: added femtanyl/REACTOR/04 - M3 N MIN3 (feat. Danny Brown).flac
+2026-08-05T22:44:50 update: added femtanyl/REACTOR/05 - ATTACKING VERTICAL.flac
+2026-08-05T22:44:50 update: added femtanyl/REACTOR/06 - AND I'M GONE.flac
+2026-08-05T22:45:00 update: added femtanyl/Singles/femtanyl - DOGMATICA.flac
+2026-08-05T22:45:00 update: added femtanyl/Singles/femtanyl - I MIGHT B3 SICK.flac
+2026-08-05T22:45:00 update: added femtanyl/Singles/femtanyl - LOVESICK, CANNIBAL!.flac
+2026-08-05T22:45:00 update: added femtanyl/Singles/femtanyl - MIX. 01. - PICKMEUP!.flac
+2026-08-05T22:45:00 update: added femtanyl/Singles/femtanyl - S33K H3LP.flac
+2026-08-05T22:45:00 update: added femtanyl/Singles/femtanyl - WORLDWID3 (feat. zombAe).flac
+2026-08-05T22:45:00 update: added femtanyl/Singles/NASTYWERKKKK!.flac
+2026-08-05T22:45:00 update: removing femtanyl/autres (a trier)/femtanyl - WORLDWID3 (feat. zombAe).flac
+2026-08-05T22:45:00 update: removing femtanyl/autres (a trier)/femtanyl - S33K H3LP.flac
+2026-08-05T22:45:00 update: removing femtanyl/autres (a trier)/NASTYWERKKKK!.flac
+2026-08-05T22:45:00 update: removing femtanyl/autres (a trier)/femtanyl - MIX. 01. - PICKMEUP!.flac
+2026-08-05T22:45:00 update: removing femtanyl/autres (a trier)/femtanyl - LOVESICK, CANNIBAL!.flac
+2026-08-05T22:45:00 update: removing femtanyl/autres (a trier)/femtanyl - I MIGHT B3 SICK.flac
+2026-08-05T22:45:00 update: removing femtanyl/autres (a trier)/femtanyl - DOGMATICA.flac
+2026-08-05T22:45:48 update: added Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/01 ...BECAUSE I'M YOUNG ARROGANT AND HATE EVERYTHING YOU STAND FOR.flac
+2026-08-05T22:45:48 update: added Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/02 FUCK UP YOUR FACE.flac
+2026-08-05T22:45:48 update: added Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/03 DUMBASS!!.flac
+2026-08-05T22:45:48 update: added Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/04 NINE MINUTES AND FORTY THREE SECONDS.flac
+2026-08-05T22:45:48 update: added Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/05 BULLET HELL.flac
+2026-08-05T22:45:48 update: added Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/06 VOMIT (FEATURING BONNIE BAXTER).flac
+2026-08-05T22:45:48 update: added Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/07 SAD CLAPS.flac
+2026-08-05T22:45:48 update: added Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/08 ATHOTH A GO!! GO!!.flac
+2026-08-05T22:45:48 update: added Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/09 BITTEN TWICE.flac
+2026-08-05T22:45:48 update: added Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/10 BETA BEAST.flac
+2026-08-05T22:45:48 update: added Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/11 XLEEPY.flac
+2026-08-05T22:45:48 update: added Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/12 うずまき.flac
+2026-08-05T22:45:48 update: added Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/13 MCHNGRL VS WLFGRL.flac
+2026-08-05T22:45:48 update: added Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/14 IT TAKES A NATION OF MILLENIALS TO DESTROY A NATION OF MILLIONS....flac
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/Stared at From a Distance/5 - Fear of Abandonment.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/Stared at From a Distance/4 - Dizzy.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/Stared at From a Distance/3 - Naked and Afraid.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/Stared at From a Distance/2 - Stared At from a Distance.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/Stared at From a Distance/10 - It Never Leaves.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/Stared at From a Distance/9 - Death of an Illusion.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/Stared at From a Distance/8 - Crying as a Weapon.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/Stared at From a Distance/7 - Moments of Sobriety.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/Stared at From a Distance/6 - Shove it.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/Stared at From a Distance/11 - To Love Again.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/Stared at From a Distance/1 - Waters.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/A thousand doors, just one key/9 - Almost Gave Up.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/A thousand doors, just one key/8 - The Spiral.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/A thousand doors, just one key/7 - So Heavy.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/A thousand doors, just one key/6 - Mental Health.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/A thousand doors, just one key/5 - A Little Less Cold.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/A thousand doors, just one key/4 - Take It Slow.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/A thousand doors, just one key/3 - Attention.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/A thousand doors, just one key/2 - Falling Apart.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/A thousand doors, just one key/11 - Paris I Hate You.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/A thousand doors, just one key/10 - Stockholm.mp3
+2026-08-05T22:45:48 update: removing Feldup & the Showerheads/A thousand doors, just one key/1 - Century Long Fire.mp3
+2026-08-05T22:46:47 exception: Failed to open /home/espadia/music/playlists: No such file or directory
+2026-08-05T22:48:05 exception: Failed to open /home/espadia/music/playlists: No such file or directory
+2026-08-05T23:05:20 update: added Feldup/A season in the dark, a bottomless trench/Feldup - A season in the dark, a bottomless trench - 01 - (Intro) Sirens announcing the end of the world.flac
+2026-08-05T23:05:20 update: added Feldup/A season in the dark, a bottomless trench/Feldup - A season in the dark, a bottomless trench - 02 - Your home has been empty for a year.flac
+2026-08-05T23:05:20 update: added Feldup/A season in the dark, a bottomless trench/Feldup - A season in the dark, a bottomless trench - 04 - Aimless walking in nothingness.flac
+2026-08-05T23:05:20 update: added Feldup/A season in the dark, a bottomless trench/Feldup - A season in the dark, a bottomless trench - 03 - Unlit exit sign.flac
+2026-08-05T23:05:20 update: added Feldup/A season in the dark, a bottomless trench/Feldup - A season in the dark, a bottomless trench - 05 - Unwanted thoughts in an overwhelmed head.flac
+2026-08-05T23:05:20 update: added Feldup/A season in the dark, a bottomless trench/Feldup - A season in the dark, a bottomless trench - 06 - Through the walls.flac
+2026-08-05T23:05:20 update: added Feldup/A season in the dark, a bottomless trench/Feldup - A season in the dark, a bottomless trench - 08 - A season in the dark.flac
+2026-08-05T23:05:20 update: added Feldup/A season in the dark, a bottomless trench/Feldup - A season in the dark, a bottomless trench - 09 - A crushing silence.flac
+2026-08-05T23:05:20 update: added Feldup/A season in the dark, a bottomless trench/Feldup - A season in the dark, a bottomless trench - 07 - Everything fell apart in a mere second.flac
+2026-08-05T23:05:20 update: added Feldup/A thousand doors, just one key/Feldup - A thousand doors, just one key - 01 - Century long fire.flac
+2026-08-05T23:05:20 update: added Feldup/A thousand doors, just one key/Feldup - A thousand doors, just one key - 02 - Falling apart.flac
+2026-08-05T23:05:20 update: added Feldup/A thousand doors, just one key/Feldup - A thousand doors, just one key - 05 - A little less cold.flac
+2026-08-05T23:05:20 update: added Feldup/A thousand doors, just one key/Feldup - A thousand doors, just one key - 04 - Take it slow.flac
+2026-08-05T23:05:20 update: added Feldup/A thousand doors, just one key/Feldup - A thousand doors, just one key - 06 - Mental Health.flac
+2026-08-05T23:05:20 update: added Feldup/A thousand doors, just one key/Feldup - A thousand doors, just one key - 08 - The spiral.flac
+2026-08-05T23:05:20 update: added Feldup/A thousand doors, just one key/Feldup - A thousand doors, just one key - 09 - Almost gave up.flac
+2026-08-05T23:05:20 update: added Feldup/A thousand doors, just one key/Feldup - A thousand doors, just one key - 10 - Stockholm.flac
+2026-08-05T23:05:20 update: added Feldup/A thousand doors, just one key/Feldup - A thousand doors, just one key - 11 - Paris I hate you.flac
+2026-08-05T23:05:20 update: added Feldup/A thousand doors, just one key/Feldup - A thousand doors, just one key - 03 - Attention.flac
+2026-08-05T23:05:20 update: added Feldup/A thousand doors, just one key/Feldup - A thousand doors, just one key - 07 - So heavy.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 04 - Grandmother's garden.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 03 - The quick thought.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 02 - Pure white.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 01 - Last flowers (these).flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 05 - Ordinary pills.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 06 - The pine fell on the magniolia.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 07 - Nothing.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 08 - First Xanax.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 09 - Outside.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 10 - Confusion.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 11 - No love.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 12 - Afraid.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 13 - Yesterday.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 14 - Friday 2 pm.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 15 - word cloud.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 16 - Your movie (not mine).flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 18 - Dove.flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 19 - Never again (the original Home that was deleted because it was too graphic and weird).flac
+2026-08-05T23:05:20 update: added Feldup/Back to home/Feldup - Back to home - 20 - Goodbye (Waving at you).flac
+2026-08-05T23:05:20 update: added Feldup/Home/Feldup - Home - 01 - Elevator (boy complains).flac
+2026-08-05T23:05:20 update: added Feldup/Home/Feldup - Home - 02 - Emptied pockets.flac
+2026-08-05T23:05:20 update: added Feldup/Home/Feldup - Home - 03 - Morning (heavy breathing).flac
+2026-08-05T23:05:20 update: added Feldup/Home/Feldup - Home - 04 - Surface.flac
+2026-08-05T23:05:20 update: added Feldup/Home/Feldup - Home - 05 - Xanax (asleep).flac
+2026-08-05T23:05:20 update: added Feldup/Home/Feldup - Home - 06 - Everyday.flac
+2026-08-05T23:05:20 update: added Feldup/Home/Feldup - Home - 07 - Hiding from the rain.flac
+2026-08-05T23:05:20 update: added Feldup/Home/Feldup - Home - 08 - Fluoxetine (dayaday).flac
+2026-08-05T23:05:20 update: added Feldup/Home/Feldup - Home - 09 - Staircase (boy gives up).flac
+2026-08-05T23:05:20 update: added Feldup/Home/Feldup - Home - 10 - Home.flac
+2026-08-05T23:05:20 update: added Feldup/Home/Feldup - Home - 11 - Trails to nowhere.flac
+2026-08-05T23:05:20 update: added Feldup/Home/Feldup - Home - 12 - Nowhere.flac
+2026-08-05T23:05:20 update: added Feldup/Living behind few people/Feldup - Living behind few people - 01 - Falling in the pit.mp3
+2026-08-05T23:05:20 update: added Feldup/Living behind few people/Feldup - Living behind few people - 02 - Unlucky boy.mp3
+2026-08-05T23:05:20 update: added Feldup/Living behind few people/Feldup - Living behind few people - 04 - Panic attack.mp3
+2026-08-05T23:05:20 update: added Feldup/Living behind few people/Feldup - Living behind few people - 05 - Leaving or living (poor grammar).mp3
+2026-08-05T23:05:20 update: added Feldup/Living behind few people/Feldup - Living behind few people - 06 - To forget.mp3
+2026-08-05T23:05:20 update: added Feldup/Living behind few people/Feldup - Living behind few people - 07 - The tall lighthouse.mp3
+2026-08-05T23:05:20 update: added Feldup/Living behind few people/Feldup - Living behind few people - 08 - Quit.mp3
+2026-08-05T23:05:20 update: added Feldup/Living behind few people/Feldup - Living behind few people - 03 - Insecurity and GPS.mp3
+2026-08-05T23:05:20 update: added Feldup/Man in the abyss, a hole for a face/Feldup - Man in the abyss, a hole for a face - 01 - I saw a shattered reflection.flac
+2026-08-05T23:05:20 update: added Feldup/Man in the abyss, a hole for a face/Feldup - Man in the abyss, a hole for a face - 02 - Deafened by the absence of sounds.flac
+2026-08-05T23:05:20 update: added Feldup/Man in the abyss, a hole for a face/Feldup - Man in the abyss, a hole for a face - 04 - Blue clothes and echoes.flac
+2026-08-05T23:05:20 update: added Feldup/Man in the abyss, a hole for a face/Feldup - Man in the abyss, a hole for a face - 05 - An afternoon in the dark.flac
+2026-08-05T23:05:20 update: added Feldup/Man in the abyss, a hole for a face/Feldup - Man in the abyss, a hole for a face - 06 - A bleak future spent in self-neglect.flac
+2026-08-05T23:05:20 update: added Feldup/Man in the abyss, a hole for a face/Feldup - Man in the abyss, a hole for a face - 08 - Lucidity always leads to severe sadness.flac
+2026-08-05T23:05:20 update: added Feldup/Man in the abyss, a hole for a face/Feldup - Man in the abyss, a hole for a face - 07 - The bottom of the abyss.flac
+2026-08-05T23:05:20 update: added Feldup/Man in the abyss, a hole for a face/Feldup - Man in the abyss, a hole for a face - 03 - Head static.flac
+2026-08-05T23:05:20 update: added Feldup/Stared At from a Distance/Feldup - Stared At from a Distance - 01 - Waters.flac
+2026-08-05T23:05:20 update: added Feldup/Stared At from a Distance/Feldup - Stared At from a Distance - 02 - Stared At from a Distance.flac
+2026-08-05T23:05:20 update: added Feldup/Stared At from a Distance/Feldup - Stared At from a Distance - 11 - To Love Again.flac
+2026-08-05T23:05:20 update: added Feldup/Stared At from a Distance/Feldup - Stared At from a Distance - 10 - It Never Leaves.flac
+2026-08-05T23:05:20 update: added Feldup/Stared At from a Distance/Feldup - Stared At from a Distance - 09 - Death of an Illusion.flac
+2026-08-05T23:05:20 update: added Feldup/Stared At from a Distance/Feldup - Stared At from a Distance - 08 - Crying as a Weapon.flac
+2026-08-05T23:05:20 update: added Feldup/Stared At from a Distance/Feldup - Stared At from a Distance - 03 - Naked and Afraid.flac
+2026-08-05T23:05:20 update: added Feldup/Stared At from a Distance/Feldup - Stared At from a Distance - 07 - Moments of Sobriety.flac
+2026-08-05T23:05:20 update: added Feldup/Stared At from a Distance/Feldup - Stared At from a Distance - 06 - Shove it.flac
+2026-08-05T23:05:20 update: added Feldup/Stared At from a Distance/Feldup - Stared At from a Distance - 05 - Fear of Abandonment.flac
+2026-08-05T23:05:20 update: added Feldup/Stared At from a Distance/Feldup - Stared At from a Distance - 04 - Dizzy.flac
+2026-08-05T23:05:20 update: added Feldup/Stargazing and healing/Feldup - Stargazing and healing - 01 - The party starts.flac
+2026-08-05T23:05:20 update: added Feldup/Stargazing and healing/Feldup - Stargazing and healing - 12 - Untitled (the party is over).flac
+2026-08-05T23:05:20 update: added Feldup/Stargazing and healing/Feldup - Stargazing and healing - 11 - 3AM, in a closed bar.flac
+2026-08-05T23:05:20 update: added Feldup/Stargazing and healing/Feldup - Stargazing and healing - 09 - Seventeen.flac
+2026-08-05T23:05:20 update: added Feldup/Stargazing and healing/Feldup - Stargazing and healing - 08 - Midnight (you left).flac
+2026-08-05T23:05:20 update: added Feldup/Stargazing and healing/Feldup - Stargazing and healing - 10 - Malaysia airlines' complaint.flac
+2026-08-05T23:05:20 update: added Feldup/Stargazing and healing/Feldup - Stargazing and healing - 07 - I'm too numb I can't say anything.flac
+2026-08-05T23:05:20 update: added Feldup/Stargazing and healing/Feldup - Stargazing and healing - 06 - Just be quiet.flac
+2026-08-05T23:05:20 update: added Feldup/Stargazing and healing/Feldup - Stargazing and healing - 05 - Enjoy it.flac
+2026-08-05T23:05:20 update: added Feldup/Stargazing and healing/Feldup - Stargazing and healing - 04 - Stargazing.flac
+2026-08-05T23:05:20 update: added Feldup/Stargazing and healing/Feldup - Stargazing and healing - 03 - A heart and two souls.flac
+2026-08-05T23:05:20 update: added Feldup/Stargazing and healing/Feldup - Stargazing and healing - 02 - 9PM, on the beach.flac
+2026-08-05T23:05:20 update: added Feldup/To say goodbye/Feldup - To say goodbye - 01 - Snowy Day.flac
+2026-08-05T23:05:20 update: added Feldup/To say goodbye/Feldup - To say goodbye - 02 - To Say Goodbye.flac
+2026-08-05T23:05:20 update: added Feldup/To say goodbye/Feldup - To say goodbye - 03 - Alone on the Bench.flac
+2026-08-05T23:05:20 update: added Feldup/紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ/Feldup - 紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ - 07 - 錯覚 （ｐｔ. １／２）+ - ＳＨＯＷＮ.mp3
+2026-08-05T23:05:20 update: added Feldup/紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ/Feldup - 紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ - 08 - 錯覚 （ｐｔ. ２／２）+ - ＨＩＤＤＥＮ.mp3
+2026-08-05T23:05:20 update: added Feldup/紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ/Feldup - 紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ - 06 - 無邪気さ気 + - ＷＥＫＮＯＷ.mp3
+2026-08-05T23:05:20 update: added Feldup/紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ/Feldup - 紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ - 05 - 鏡 + - Ｌ.mp3
+2026-08-05T23:05:20 update: added Feldup/紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ/Feldup - 紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ - 04 - 薬剤師 + - ＣＯ（Ｍ）ＰＵＴ.mp3
+2026-08-05T23:05:20 update: added Feldup/紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ/Feldup - 紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ - 03 - 寺院 + - ＣＵＬＴ.mp3
+2026-08-05T23:05:20 update: added Feldup/紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ/Feldup - 紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ - 02 - 株式会社 + - ＥＶＩＬＳＹＬ／ＮＯ.mp3
+2026-08-05T23:05:20 update: added Feldup/紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ/Feldup - 紫の送信 +++ｓｙｌｎｏ _ ＷＡＶＥＳ - 01 - どこにいるの？ + - ＴＥＬＥＶＩＳＩＯＮ ＯＮ.mp3
+2026-08-05T23:17:44 update: added Sidney Gish/No Dogs Allowed (2017)/01. Bird Tutorial.flac
+2026-08-05T23:17:44 update: added Sidney Gish/No Dogs Allowed (2017)/02. Sin Triangle.flac
+2026-08-05T23:17:44 update: added Sidney Gish/No Dogs Allowed (2017)/03. Good Magicians.flac
+2026-08-05T23:17:44 update: added Sidney Gish/No Dogs Allowed (2017)/04. Sophisticated Space.flac
+2026-08-05T23:17:44 update: added Sidney Gish/No Dogs Allowed (2017)/05. I'm Filled With Steak, and Cannot Dance.flac
+2026-08-05T23:17:44 update: added Sidney Gish/No Dogs Allowed (2017)/06. Where the Sidewalk Ends.flac
+2026-08-05T23:17:44 update: added Sidney Gish/No Dogs Allowed (2017)/07. Mouth Log.flac
+2026-08-05T23:17:44 update: added Sidney Gish/No Dogs Allowed (2017)/08. I Eat Salads Now.flac
+2026-08-05T23:17:44 update: added Sidney Gish/No Dogs Allowed (2017)/09. Rat of the City.flac
+2026-08-05T23:17:44 update: added Sidney Gish/No Dogs Allowed (2017)/10. Not but for You, Bunny.flac
+2026-08-05T23:17:44 update: added Sidney Gish/No Dogs Allowed (2017)/11. Persephone.flac
+2026-08-05T23:17:44 update: added Sidney Gish/No Dogs Allowed (2017)/12. Impostor Syndrome.flac
+2026-08-05T23:17:44 update: added Sidney Gish/No Dogs Allowed (2017)/13. New Recording 180 (New Year's Eve).flac
