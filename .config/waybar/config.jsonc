@@ -41,6 +41,7 @@
   "format": "{icon} {text}",
   "return-type": "json",
   "max-length": 40,
+  "interval": 5,
   "format-icons": {
     "Playing": "󰐊",
     "Paused": "󰏤"
