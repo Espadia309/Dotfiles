@@ -10,6 +10,9 @@ hl.bind(MainMod .. "+ T", hl.dsp.exec_cmd(textedit))
 hl.bind(MainMod .. "+ B", hl.dsp.exec_cmd(browser))
 hl.bind(MainMod .. "+ P", hl.dsp.exec_cmd("hyprlock"))
 
+-- guide for the rice wip
+-- hl.bind(MainMod .. "+ H", hl.dsp.exec_cmd("nvim ~/.config/hypr/doc/guide.txt"))
+
 -- change wallpaper using rofi script :
 hl.bind(MainMod .. "+ W", hl.dsp.exec_cmd("bash " .. scripts .. "/menu-rofi.sh"))
 
@@ -62,4 +65,3 @@ hl.bind(MainMod .. "+ SHIFT + R", hl.dsp.window.move({ workspace = 10 }))
 -- move and resize floating
 hl.bind(MainMod .. "+ mouse:272", hl.dsp.window.drag())
 hl.bind(MainMod .. "+ mouse:273", hl.dsp.window.resize())
-

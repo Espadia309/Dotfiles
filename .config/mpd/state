@@ -1,7 +1,9 @@
-sw_volume: 75
+sw_volume: 59
 audio_device_state:1:pipewire output
 audio_device_state:1:Visualizer feed
-state: stop
+state: pause
+current: 5
+time: 57.303000000000004
 random: 0
 repeat: 1
 single: 0
@@ -11,4 +13,48 @@ mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
+0:femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 10 - IS THIS IT.flac
+1:femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 05 - CITY.flac
+2:femtanyl/REACTOR/05 - ATTACKING VERTICAL.flac
+3:femtanyl/CHASER/06 - GIRL HELL 1999.flac
+4:femtanyl/REACTOR/01 - IT'S TIME.flac
+5:Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/02 FUCK UP YOUR FACE.flac
+6:femtanyl/REACTOR/03 - DINNER!.flac
+7:femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 04 - HELLTARGET.flac
+8:femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 03 - SICK OF IT.flac
+9:femtanyl/CHASER/01 - ACT RIGHT.flac
+10:femtanyl/REACTOR/06 - AND I'M GONE.flac
+11:femtanyl/NASTYWERKKKK!/NASTYWERKKKK!.flac
+12:femtanyl/I MIGHT B3 SICK/femtanyl - I MIGHT B3 SICK.flac
+13:femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 06 - HEAD UP.flac
+14:Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/06 VOMIT (FEATURING BONNIE BAXTER).flac
+15:femtanyl/LOVESICK, CANNIBAL!/femtanyl - LOVESICK, CANNIBAL!.flac
+16:Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/09 BITTEN TWICE.flac
+17:Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/13 MCHNGRL VS WLFGRL.flac
+18:Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/05 BULLET HELL.flac
+19:femtanyl/CHASER/05 - MURDER EVERY 1 U KNOW! (feat. takihasdied).flac
+20:femtanyl/CHASER/02 - P3T.flac
+21:Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/07 SAD CLAPS.flac
+22:Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/01 ...BECAUSE I'M YOUNG ARROGANT AND HATE EVERYTHING YOU STAND FOR.flac
+23:femtanyl/S33K H3LP/femtanyl - S33K H3LP.flac
+24:Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/10 BETA BEAST.flac
+25:femtanyl/CHASER/04 - KATAMARI.flac
+26:femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 08 - SHOWS YOU THE WAY TO THE HIWAY.flac
+27:Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/11 XLEEPY.flac
+28:Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/03 DUMBASS!!.flac
+29:femtanyl/DOGMATICA/femtanyl - DOGMATICA.flac
+30:Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/04 NINE MINUTES AND FORTY THREE SECONDS.flac
+31:femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 09 - MAN BITES DOG.flac
+32:femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 07 - MY HEAD HURTS.flac
+33:femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 02 - VIDEO NASTY.flac
+34:Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/14 IT TAKES A NATION OF MILLENIALS TO DESTROY A NATION OF MILLIONS....flac
+35:Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/12 うずまき.flac
+36:femtanyl/DOGMATICA/femtanyl - DOGMATICA.flac
+37:femtanyl/WORLDWIDE/femtanyl - WORLDWID3 (feat. zombAe).flac
+38:femtanyl/WORLDWIDE/femtanyl - WORLDWID3 (feat. zombAe).flac
+39:femtanyl/REACTOR/04 - M3 N MIN3 (feat. Danny Brown).flac
+40:femtanyl/REACTOR/02 - WEIGHTLESS!.flac
+41:femtanyl/CHASER/03 - PUSH UR T3MPRR.flac
+42:femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 01 - BODY THE PISTOL.flac
+43:Machine Girl/Because I'm Young Arrogant and Hate Everything You Stand For/08 ATHOTH A GO!! GO!!.flac
 playlist_end
