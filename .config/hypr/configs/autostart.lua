@@ -4,9 +4,7 @@ hl.on("hyprland.start", function()
 	hl.exec_cmd("awww-daemon")
 	hl.exec_cmd("hypridle")
 	hl.exec_cmd("waybar")
-
 	--apps
 	hl.exec_cmd("vesktop")
 	hl.exec_cmd("zen-browser")
 end)
-
