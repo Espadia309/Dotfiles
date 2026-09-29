@@ -3,7 +3,7 @@ require("configs/variables")
 -- apps
 hl.bind(MainMod .. "+ RETURN", hl.dsp.exec_cmd(terminal))
 hl.bind(MainMod .. "+ E", hl.dsp.exec_cmd(fileManager))
-hl.bind(MainMod .. "+ SPACE", hl.dsp.exec_cmd(menu))
+-- hl.bind(MainMod .. "+ SPACE", hl.dsp.exec_cmd(menu))
 hl.bind(MainMod .. "+ D", hl.dsp.exec_cmd("vesktop"))
 hl.bind(MainMod .. "+ O", hl.dsp.exec_cmd(notes))
 hl.bind(MainMod .. "+ T", hl.dsp.exec_cmd(textedit))
@@ -12,6 +12,14 @@ hl.bind(MainMod .. "+ P", hl.dsp.exec_cmd("hyprlock"))
 
 -- guide for the rice wip
 -- hl.bind(MainMod .. "+ H", hl.dsp.exec_cmd("nvim ~/.config/hypr/doc/guide.txt"))
+--
+-- hyprmilk shell IPC (Quickshell IpcHandler target "shell")
+hl.bind(MainMod .. " + SPACE", hl.dsp.exec_cmd("qs -c hyprmilk ipc call shell toggleLauncher"))
+hl.bind(MainMod .. " + N", hl.dsp.exec_cmd("qs -c hyprmilk ipc call shell toggleCenter"))
+hl.bind(MainMod .. " + Q", hl.dsp.exec_cmd("qs -c hyprmilk ipc call shell toggleControl"))
+hl.bind(MainMod .. " + A", hl.dsp.exec_cmd("qs -c hyprmilk ipc call shell cycleWallpaper"))
+hl.bind(MainMod .. " + G", hl.dsp.exec_cmd("qs -c hyprmilk ipc call shell toggleGirl"))
+hl.bind(MainMod .. " + X", hl.dsp.exec_cmd("qs -c hyprmilk ipc call shell sayLine"))
 
 -- change wallpaper using rofi script :
 hl.bind(MainMod .. "+ W", hl.dsp.exec_cmd("bash " .. scripts .. "/menu-rofi.sh"))

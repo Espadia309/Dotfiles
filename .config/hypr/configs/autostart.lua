@@ -3,7 +3,7 @@ hl.on("hyprland.start", function()
 	-- Needed stuff
 	hl.exec_cmd("awww-daemon")
 	hl.exec_cmd("hypridle")
-	hl.exec_cmd("waybar")
+	hl.exec_cmd("qs -c hyprmilk")
 	--apps
 	hl.exec_cmd("vesktop")
 	hl.exec_cmd("zen-browser")
