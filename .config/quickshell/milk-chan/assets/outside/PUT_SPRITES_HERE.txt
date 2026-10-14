@@ -1,0 +1,9 @@
+Put PNG sprites for the "outside" room here, named after emotions:
+
+  neutral.png
+  happy.png
+  confused.png
+  sleepy.png
+  surprised.png
+
+(matches the "emotions" list in Mascot.qml -- add/remove names in both places together)
