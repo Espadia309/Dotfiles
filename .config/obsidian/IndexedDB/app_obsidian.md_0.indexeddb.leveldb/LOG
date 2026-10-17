@@ -1,3 +1,6 @@
-2026/10/14-20:36:46.576 78e2 Reusing MANIFEST /home/espadia/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2026/10/14-20:36:46.576 78e2 Recovering log #83
-2026/10/14-20:36:46.595 78e2 Reusing old log /home/espadia/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000083.log 
+2026/10/17-02:28:50.042 18d8f Reusing MANIFEST /home/espadia/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/17-02:28:50.043 18d8f Recovering log #83
+2026/10/17-02:28:50.064 18d8f Reusing old log /home/espadia/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000083.log 
+2026/10/17-02:30:23.982 18da4 Level-0 table #88: started
+2026/10/17-02:30:24.004 18da4 Level-0 table #88: 1358836 bytes OK
+2026/10/17-02:30:24.007 18da4 Delete type=0 #83
