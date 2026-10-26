@@ -10,7 +10,7 @@
     "name": "external",
     "output": ["DP-1", "HDMI-A-1"],
     "include": ["~/.config/waybar/modules.jsonc"],
-    "margin-left": 370
+    "margin-left": 370,
     "margin-right" 370,
   }
 ]
