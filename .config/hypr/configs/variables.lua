@@ -4,7 +4,7 @@ terminal = "kitty"
 fileManager = "dolphin"
 browser = "zen-browser"
 menu = "rofi -show drun"
-textedit = "nvim ~/"
+textedit = "kitty -e nvim"
 notes = "obsidian"
 
 -- directories

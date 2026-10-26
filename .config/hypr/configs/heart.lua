@@ -8,6 +8,8 @@ hl.config({
 		sensitivity = 0,
 		touchpad = {
 			natural_scroll = false,
+			tap_to_click = true,
+			disable_while_typing = true,
 			tap_button_map = "lmr",
 		},
 	},

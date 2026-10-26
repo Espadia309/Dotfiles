@@ -1,3 +1,14 @@
+/* Same palette as before, just named once so it's easy to tweak */
+@define-color bar_bg      rgba(50, 0, 20, 0.7);
+@define-color module_bg   rgba(180, 0, 40, 0.28);
+@define-color hover_bg    rgba(200, 0, 60, 0.7);
+@define-color magenta_bg  rgba(150, 0, 80, 0.7);
+@define-color red_edge    rgba(200, 0, 60, 0.6);
+@define-color fg          #f0c0d0;
+@define-color fg_dim      #a03060;
+@define-color accent      #d070c0;
+@define-color urgent      #ff4040;
+
 * {
   font-family: "Maple Mono", "JetBrainsMono Nerd Font", "Font Awesome 6 Free";
   border-radius: 8px;
@@ -7,77 +18,146 @@
 }
 
 window#waybar {
-  /* softer rounded look */
-  background-color: rgba(50, 0, 20, 0.7); /* dark red/magenta base */
+  background-color: @bar_bg;
   border-radius: 14px;
+  border: 1px solid @red_edge;
   padding: 0px;
-  border-style: none;
 }
 
-/* modules */
+/* ---------- modules ---------- */
 #network,
+#battery,
 #clock,
 #custom-applauncher,
+#custom-media,
 #tray,
 #workspaces,
 #pulseaudio {
-  background-color: rgba(180, 0, 40, 0.2); /* deep red with transparency */
-
+  background-color: @module_bg;
   margin: 6px;
   margin-right: 0px;
-
-  padding: 6px 4px;
+  padding: 6px 10px;
   border-radius: 8px;
-  color: #f0c0d0; /* lighter magenta-ish text */
-
-  border-style: solid;
-  border-color: #f0c0d0;
-  border-width: 1px;
-
+  color: @fg;
+  border: 1px solid @red_edge;
   transition-duration: 120ms;
 }
 
-/* clock */
 #clock {
   margin-right: 6px;
 }
 
-#clock:hover {
-  background-color: rgba(200, 0, 60, 0.7); /* brighter red hover */
-  color: #f0c0d0;
+#workspaces {
+  padding: 6px 4px;
 }
 
-/* audio */
-#pulseaudio:hover {
-  background-color: rgba(200, 0, 60, 0.7);
-  color: #f0c0d0;
-  transition-duration: 120ms;
-}
-
-/* app launcher */
 #custom-applauncher {
   font-weight: bold;
-  transition-duration: 120ms;
-  padding: 6px 6px;
+  padding: 6px 12px;
+  letter-spacing: 1px;
+}
+
+/* ---------- hover ---------- */
+#clock:hover,
+#pulseaudio:hover,
+#network:hover,
+#battery:hover,
+#custom-media:hover {
+  background-color: @hover_bg;
+  color: @fg;
 }
 
 #custom-applauncher:hover {
-  background-color: rgba(150, 0, 80, 0.7); /* dark magenta hover */
-  color: #f0c0d0;
-  transition-duration: 120ms;
+  background-color: @magenta_bg;
+  color: @fg;
 }
 
-/* tray menu */
+/* ---------- workspaces ---------- */
+#workspaces button {
+  all: initial;
+  min-width: 0;
+  padding: 0 6px;
+  margin: 2px 1px;
+  font-weight: bold;
+  color: @fg;
+  border-radius: 6px;
+  transition-duration: 100ms;
+}
+
+#workspaces button.empty {
+  color: rgba(240, 192, 208, 0.4);
+}
+
+#workspaces button:hover {
+  color: @accent;
+}
+
+#workspaces button.focused,
+#workspaces button.active {
+  color: @fg;
+  background-color: rgba(200, 0, 60, 0.55);
+  font-weight: bold;
+}
+
+#workspaces button.urgent {
+  color: @urgent;
+}
+
+/* ---------- media ---------- */
+#custom-media.Playing {
+  color: @fg;
+}
+
+#custom-media.Paused {
+  color: @fg_dim;
+}
+
+/* ---------- states ---------- */
+#pulseaudio.muted {
+  color: @fg_dim;
+}
+
+#network.disconnected {
+  color: @fg_dim;
+}
+
+#battery.charging,
+#battery.plugged {
+  color: @accent;
+}
+
+#battery.warning:not(.charging) {
+  color: @urgent;
+}
+
+#battery.critical:not(.charging) {
+  color: @urgent;
+  background-color: rgba(200, 0, 60, 0.7);
+  animation-name: blink;
+  animation-duration: 0.8s;
+  animation-timing-function: steps(12);
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@keyframes blink {
+  to {
+    background-color: rgba(255, 64, 64, 0.85);
+    color: #ffffff;
+  }
+}
+
+/* ---------- tray menu ---------- */
 #tray menu {
-  background-color: #200010; /* dark red/magenta */
-  color: #f0c0d0;
+  background-color: #200010;
+  color: @fg;
   padding: 4px;
 }
 
 #tray menu menuitem {
-  background-image: linear-gradient(to bottom, #400020 100%); /* dark gradient */
+  background-image: linear-gradient(to bottom, #400020 100%);
   margin: 3px;
-  color: #f0c0d0;
+  color: @fg;
   border-radius: 4px;
   border-style: solid;
   border-color: #400020;
@@ -85,56 +165,6 @@ window#waybar {
 
 #tray menu menuitem:hover {
   background-image: linear-gradient(to bottom, #600040 100%);
-  color: #d070c0; /* bright magenta hover */
+  color: @accent;
   font-weight: bold;
-}
-
-/* workspaces */
-#workspaces button {
-  transition-duration: 100ms;
-  all: initial;
-  min-width: 0;
-  font-weight: bold;
-  color: #f0c0d0;
-
-  margin: 4px 0;
-}
-
-#workspaces button:hover {
-  transition-duration: 120ms;
-  color: #d070c0; /* magenta-ish hover */
-}
-
-#workspaces button.focused,
-#workspaces button.active {
-  color: #a03060; /* deep red/magenta */
-  font-weight: bold;
-}
-
-#workspaces button.urgent {
-  color: #ff4040; /* bright red for urgent */
-}
-
-/* media player thing */
-#custom-media {
-  background-color: rgba(180, 0, 40, 0.2);
-  margin: 6px;
-  margin-right: 0px;
-  padding: 6px 10px;
-  border-radius: 8px;
-  color: #f0c0d0;
-  border-style: solid;
-  border-color: #f0c0d0;
-  border-width: 1px;
-  transition-duration: 120ms;
-}
-#custom-media:hover {
-  background-color: rgba(200, 0, 60, 0.7);
-  color: #f0c0d0;
-}
-#custom-media.Playing {
-  color: #f0c0d0;
-}
-#custom-media.Paused {
-  color: #a03060;
 }

@@ -3,7 +3,6 @@ require("configs/variables")
 -- apps
 hl.bind(MainMod .. "+ RETURN", hl.dsp.exec_cmd(terminal))
 hl.bind(MainMod .. "+ E", hl.dsp.exec_cmd(fileManager))
--- hl.bind(MainMod .. "+ SPACE", hl.dsp.exec_cmd(menu))
 hl.bind(MainMod .. "+ D", hl.dsp.exec_cmd("vesktop"))
 hl.bind(MainMod .. "+ O", hl.dsp.exec_cmd(notes))
 hl.bind(MainMod .. "+ T", hl.dsp.exec_cmd(textedit))
@@ -13,13 +12,8 @@ hl.bind(MainMod .. "+ P", hl.dsp.exec_cmd("hyprlock"))
 -- guide for the rice wip
 -- hl.bind(MainMod .. "+ H", hl.dsp.exec_cmd("nvim ~/.config/hypr/doc/guide.txt"))
 --
--- hyprmilk shell IPC (Quickshell IpcHandler target "shell")
-hl.bind(MainMod .. " + SPACE", hl.dsp.exec_cmd("qs -c hyprmilk ipc call shell toggleLauncher"))
-hl.bind(MainMod .. " + N", hl.dsp.exec_cmd("qs -c hyprmilk ipc call shell toggleCenter"))
-hl.bind(MainMod .. " + Q", hl.dsp.exec_cmd("qs -c hyprmilk ipc call shell toggleControl"))
-hl.bind(MainMod .. " + A", hl.dsp.exec_cmd("qs -c hyprmilk ipc call shell cycleWallpaper"))
-hl.bind(MainMod .. " + G", hl.dsp.exec_cmd("qs -c hyprmilk ipc call shell toggleGirl"))
-hl.bind(MainMod .. " + X", hl.dsp.exec_cmd("qs -c hyprmilk ipc call shell sayLine"))
+-- app launcher
+hl.bind(MainMod .. " + SPACE", hl.dsp.exec_cmd(menu))
 
 -- change wallpaper using rofi script :
 hl.bind(MainMod .. "+ W", hl.dsp.exec_cmd("bash " .. scripts .. "/menu-rofi.sh"))
@@ -42,8 +36,8 @@ hl.bind(MainMod .. "+ L", hl.dsp.focus({ direction = "right" }))
 
 -- windows move
 hl.bind(MainMod .. "+ SHIFT + H", hl.dsp.window.move({ direction = "left" }))
-hl.bind(MainMod .. "+ SHIFT + J", hl.dsp.window.move({ direction = "up" }))
-hl.bind(MainMod .. "+ SHIFT + K", hl.dsp.window.move({ direction = "down" }))
+hl.bind(MainMod .. "+ SHIFT + J", hl.dsp.window.move({ direction = "down" }))
+hl.bind(MainMod .. "+ SHIFT + K", hl.dsp.window.move({ direction = "up" }))
 hl.bind(MainMod .. "+ SHIFT + L", hl.dsp.window.move({ direction = "right" }))
 
 -- workspace switch
@@ -73,3 +67,10 @@ hl.bind(MainMod .. "+ SHIFT + R", hl.dsp.window.move({ workspace = 10 }))
 -- move and resize floating
 hl.bind(MainMod .. "+ mouse:272", hl.dsp.window.drag())
 hl.bind(MainMod .. "+ mouse:273", hl.dsp.window.resize())
+
+-- laptop keys (brightness / volume)
+hl.bind("XF86MonBrightnessUp", hl.dsp.exec_cmd("brightnessctl set 5%+"))
+hl.bind("XF86MonBrightnessDown", hl.dsp.exec_cmd("brightnessctl set 5%-"))
+hl.bind("XF86AudioRaiseVolume", hl.dsp.exec_cmd("wpctl set-volume -l 1.0 @DEFAULT_AUDIO_SINK@ 5%+"))
+hl.bind("XF86AudioLowerVolume", hl.dsp.exec_cmd("wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%-"))
+hl.bind("XF86AudioMute", hl.dsp.exec_cmd("wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle"))

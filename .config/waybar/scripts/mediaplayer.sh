@@ -1,22 +1,38 @@
 #!/usr/bin/env bash
+# Event-driven: playerctl --follow prints a line on every change, so the bar
+# updates instantly. Use this WITHOUT "interval" in the waybar module.
 
-player_status=$(playerctl status 2>/dev/null)
+SEP='‖'
+empty='{"text": "", "class": "", "alt": ""}'
 
-if [ -z "$player_status" ]; then
-  echo '{"text": "", "class": "", "alt": ""}'
-  exit 0
-fi
+esc() {
+  local s=${1//\\/\\\\}
+  s=${s//\"/\\\"}
+  printf '%s' "$s"
+}
 
-artist=$(playerctl metadata artist 2>/dev/null)
-title=$(playerctl metadata title 2>/dev/null)
+while true; do
+  echo "$empty"
+  playerctl --follow metadata --format "{{status}}${SEP}{{artist}}${SEP}{{title}}" 2>/dev/null |
+    while IFS= read -r line; do
+      status=${line%%"$SEP"*}
+      rest=${line#*"$SEP"}
+      artist=${rest%%"$SEP"*}
+      title=${rest#*"$SEP"}
 
-if [ -n "$artist" ]; then
-  text="$artist - $title"
-else
-  text="$title"
-fi
+      if [ -z "$status" ] || { [ -z "$artist" ] && [ -z "$title" ]; }; then
+        echo "$empty"
+        continue
+      fi
 
-# escape for JSON
-text=$(echo "$text" | sed 's/"/\\"/g')
+      if [ -n "$artist" ]; then
+        text="$artist - $title"
+      else
+        text="$title"
+      fi
 
-echo "{\"text\": \"$text\", \"class\": \"$player_status\", \"alt\": \"$player_status\"}"
+      echo "{\"text\": \"$(esc "$text")\", \"class\": \"$status\", \"alt\": \"$status\"}"
+    done
+  # playerctl exited (no players): wait a bit and start over
+  sleep 2
+done

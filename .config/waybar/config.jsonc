@@ -1,102 +1,140 @@
-{
-  "layer": "bot",
-  "spacing": 0,
-  "height": 0,
-  "margin-bottom": 0,
-  "margin-top": 8,
-  "position": "top",
-  "margin-right": 370,
-  "margin-left": 370,
-  "modules-left": [
-    "hyprland/workspaces",
-    "sway/workspaces",
-    "custom/media"
-  ],
-  "modules-center": [
-    "custom/applauncher"
-  ],
-  "modules-right": [
-    "network",
-    "battery",
-    "pulseaudio",
-    "tray",
-    "clock"
-  ],
-  "hyprland/workspaces": {
-    "disable-scroll": true,
-    "all-outputs": false,
-    "tooltip": false
-  },
-  "sway/workspaces": {
-    "disable-scroll": true,
-    "all-outputs": false,
-    "tooltip": false
-  },
-  "custom/applauncher": {
-    "format": "///",
-    "on-click": "pgrep rofi >/dev/null 2>&1 && killall rofi || rofi --show drun --location=top -y 10",
-    "tooltip": false
-  },
-  "custom/media": {
-  "format": "{icon} {text}",
-  "return-type": "json",
-  "max-length": 40,
-  "interval": 5,
-  "format-icons": {
-    "Playing": "󰐊",
-    "Paused": "󰏤"
-  },
-  "escape": true,
-  "exec": "$HOME/.config/waybar/scripts/mediaplayer.sh",
-  "on-click": "playerctl play-pause",
-  "on-scroll-up": "playerctl next",
-  "on-scroll-down": "playerctl previous",
-  "tooltip": false
-},
-  "tray": {
-    "spacing": 10,
-    "tooltip": false
-  },
-  "clock": {
-    "format": "󰅐 {:%H:%M}",
-    "tooltip": false
-  },
-  "network": {
-    "format-wifi": " {bandwidthDownBits}",
-    "format-ethernet": " {bandwidthDownBits}",
-    "format-disconnected": "󰤮 No Network",
-    "interval": 5,
-    "tooltip": false
-  },
-  "pulseaudio": {
-    "scroll-step": 5,
-    "max-volume": 150,
-    "format": "{icon} {volume}%",
-    "format-bluetooth": "{icon} {volume}%",
-    "format-icons": [
-      "",
-      "",
-      " "
-    ],
-    "nospacing": 1,
-    "format-muted": " ",
-    "on-click": "pavucontrol",
-    "tooltip": false
-  },
-  "battery": {
-    "states": {
-      "warning": 30,
-      "critical": 15
-    },
-    "format": "{icon} {capacity}%",
-    "format-charging": "󰂄 {capacity}%",
-    "format-plugged": "󰂄{capacity}%",
-    "format-alt": "{icon} {time}",
-    "format-full": "󱈑 {capacity}%",
-    "format-icons": [
-      "󱊡",
-      "󱊢",
-      "󱊣"
-    ]
-  }
+* {
+  font-family: "Maple Mono", "JetBrainsMono Nerd Font", "Font Awesome 6 Free";
+  border-radius: 8px;
+  font-size: 13px;
+  padding: 0px;
+  background: transparent;
+}
+
+window#waybar {
+  /* softer rounded look */
+  background-color: rgba(50, 0, 20, 0.7); /* dark red/magenta base */
+  border-radius: 14px;
+  padding: 0px;
+  border-style: none;
+}
+
+/* modules */
+#network,
+#clock,
+#custom-applauncher,
+#tray,
+#workspaces,
+#pulseaudio {
+  background-color: rgba(180, 0, 40, 0.2); /* deep red with transparency */
+
+  margin: 6px;
+  margin-right: 0px;
+
+  padding: 6px 4px;
+  border-radius: 8px;
+  color: #f0c0d0; /* lighter magenta-ish text */
+
+  border-style: solid;
+  border-color: #f0c0d0;
+  border-width: 1px;
+
+  transition-duration: 120ms;
+}
+
+/* clock */
+#clock {
+  margin-right: 6px;
+}
+
+#clock:hover {
+  background-color: rgba(200, 0, 60, 0.7); /* brighter red hover */
+  color: #f0c0d0;
+}
+
+/* audio */
+#pulseaudio:hover {
+  background-color: rgba(200, 0, 60, 0.7);
+  color: #f0c0d0;
+  transition-duration: 120ms;
+}
+
+/* app launcher */
+#custom-applauncher {
+  font-weight: bold;
+  transition-duration: 120ms;
+  padding: 6px 6px;
+}
+
+#custom-applauncher:hover {
+  background-color: rgba(150, 0, 80, 0.7); /* dark magenta hover */
+  color: #f0c0d0;
+  transition-duration: 120ms;
+}
+
+/* tray menu */
+#tray menu {
+  background-color: #200010; /* dark red/magenta */
+  color: #f0c0d0;
+  padding: 4px;
+}
+
+#tray menu menuitem {
+  background-image: linear-gradient(to bottom, #400020 100%); /* dark gradient */
+  margin: 3px;
+  color: #f0c0d0;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #400020;
+}
+
+#tray menu menuitem:hover {
+  background-image: linear-gradient(to bottom, #600040 100%);
+  color: #d070c0; /* bright magenta hover */
+  font-weight: bold;
+}
+
+/* workspaces */
+#workspaces button {
+  transition-duration: 100ms;
+  all: initial;
+  min-width: 0;
+  font-weight: bold;
+  color: #f0c0d0;
+
+  margin: 4px 0;
+}
+
+#workspaces button:hover {
+  transition-duration: 120ms;
+  color: #d070c0; /* magenta-ish hover */
+}
+
+#workspaces button.focused,
+#workspaces button.active {
+  color: #a03060; /* deep red/magenta */
+  font-weight: bold;
+}
+
+#workspaces button.urgent {
+  color: #ff4040; /* bright red for urgent */
+}
+
+/* media player thing */
+#custom-media {
+  background-color: rgba(180, 0, 40, 0.2);
+  margin: 6px;
+  margin-right: 0px;
+  padding: 6px 10px;
+  border-radius: 8px;
+  color: #f0c0d0;
+  border-style: solid;
+  border-color: #f0c0d0;
+  border-width: 1px;
+  transition-duration: 120ms;
+}
+#custom-media:hover {
+  background-color: rgba(200, 0, 60, 0.7);
+  color: #f0c0d0;
+}
+#custom-media.Playing {
+  color: #f0c0d0;
+}
+#custom-media.Paused {
+  color: #a03060;
 }
