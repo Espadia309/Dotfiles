@@ -1,15 +1,12 @@
 {
-  "layer": "bot",
-  "spacing": 0,
-  "height": 0,
-  "margin-bottom": 0,
-  "margin-top": 8,
+  "layer": "top",
   "position": "top",
-  "margin-right": 370,
-  "margin-left": 370,
+  "height": 0,
+  "spacing": 0,
+  "margin-top": 8,
+  "margin-bottom": 0,
   "modules-left": [
     "hyprland/workspaces",
-    "sway/workspaces",
     "custom/media"
   ],
   "modules-center": [
@@ -23,14 +20,29 @@
     "clock"
   ],
   "hyprland/workspaces": {
+    "format": "{id}",
     "disable-scroll": true,
     "all-outputs": false,
-    "tooltip": false
-  },
-  "sway/workspaces": {
-    "disable-scroll": true,
-    "all-outputs": false,
-    "tooltip": false
+    "tooltip": false,
+    "persistent-workspaces": {
+      "eDP-1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "DP-1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "HDMI-A-1": [
+        5,
+        6
+      ]
+    }
   },
   "custom/applauncher": {
     "format": "///",
@@ -38,32 +50,32 @@
     "tooltip": false
   },
   "custom/media": {
-  "format": "{icon} {text}",
-  "return-type": "json",
-  "max-length": 40,
-  "interval": 5,
-  "format-icons": {
-    "Playing": "󰐊",
-    "Paused": "󰏤"
+    "format": "{icon} {text}",
+    "return-type": "json",
+    "max-length": 40,
+    "format-icons": {
+      "Playing": "󰐊",
+      "Paused": "󰏤"
+    },
+    "escape": true,
+    "exec": "$HOME/.config/waybar/scripts/mediaplayer.sh",
+    "on-click": "playerctl play-pause",
+    "on-scroll-up": "playerctl next",
+    "on-scroll-down": "playerctl previous",
+    "tooltip": false
   },
-  "escape": true,
-  "exec": "$HOME/.config/waybar/scripts/mediaplayer.sh",
-  "on-click": "playerctl play-pause",
-  "on-scroll-up": "playerctl next",
-  "on-scroll-down": "playerctl previous",
-  "tooltip": false
-},
   "tray": {
     "spacing": 10,
     "tooltip": false
   },
   "clock": {
     "format": "󰅐 {:%H:%M}",
+    "format-alt": "󰃭 {:%a %d %b}",
     "tooltip": false
   },
   "network": {
-    "format-wifi": " {bandwidthDownBits}",
-    "format-ethernet": " {bandwidthDownBits}",
+    "format-wifi": "󰖩 {bandwidthDownBits}",
+    "format-ethernet": "󰈀 {bandwidthDownBits}",
     "format-disconnected": "󰤮 No Network",
     "interval": 5,
     "tooltip": false
@@ -74,13 +86,13 @@
     "format": "{icon} {volume}%",
     "format-bluetooth": "{icon} {volume}%",
     "format-icons": [
-      "",
-      "",
-      " "
+      "󰕿",
+      "󰖀",
+      "󰕾"
     ],
-    "nospacing": 1,
-    "format-muted": " ",
+    "format-muted": "󰝟 muted",
     "on-click": "pavucontrol",
+    "on-click-right": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle",
     "tooltip": false
   },
   "battery": {
@@ -90,13 +102,21 @@
     },
     "format": "{icon} {capacity}%",
     "format-charging": "󰂄 {capacity}%",
-    "format-plugged": "󰂄{capacity}%",
+    "format-plugged": "󰚥 {capacity}%",
+    "format-full": "󰁹 {capacity}%",
     "format-alt": "{icon} {time}",
-    "format-full": "󱈑 {capacity}%",
     "format-icons": [
-      "󱊡",
-      "󱊢",
-      "󱊣"
-    ]
+      "󰁺",
+      "󰁻",
+      "󰁼",
+      "󰁽",
+      "󰁾",
+      "󰁿",
+      "󰂀",
+      "󰂁",
+      "󰂂",
+      "󰁹"
+    ],
+    "tooltip": false
   }
 }
