@@ -10,8 +10,11 @@ hl.bind(MainMod .. "+ B", hl.dsp.exec_cmd(browser))
 hl.bind(MainMod .. "+ P", hl.dsp.exec_cmd("hyprlock"))
 
 -- guide for the rice wip
--- hl.bind(MainMod .. "+ H", hl.dsp.exec_cmd("nvim ~/.config/hypr/doc/guide.txt"))
---
+hl.bind(
+	MainMod .. "+ F1",
+	hl.dsp.exec_cmd("kitty --class guide -e glow -s ~/.config/glow/styles/rice.json -p ~/.config/hypr/doc/guide.md")
+)
+
 -- app launcher
 hl.bind(MainMod .. " + SPACE", hl.dsp.exec_cmd(menu))
 
@@ -24,9 +27,9 @@ hl.bind(MainMod .. "+ F", hl.dsp.window.fullscreen(toggle, activewindow))
 hl.bind(MainMod .. "+ SHIFT + SPACE", hl.dsp.window.float(toggle, activewindow))
 
 -- screenshots functions
-hl.bind(MainMod .. "+ PRINT", hl.dsp.exec_cmd("hyprshot -m output"))
-hl.bind(MainMod .. "+ SHIFT + PRINT", hl.dsp.exec_cmd("hyprshot -m window"))
-hl.bind("SHIFT + PRINT", hl.dsp.exec_cmd("hyprshot -m region"))
+hl.bind(MainMod .. "+ PRINT", hl.dsp.exec_cmd("hyprshot -m output -o ~/Pictures/Screenshots"))
+hl.bind(MainMod .. "+ SHIFT + PRINT", hl.dsp.exec_cmd("hyprshot -m window -o ~/Pictures/Screenshots"))
+hl.bind("SHIFT + PRINT", hl.dsp.exec_cmd("hyprshot -m region -o ~/Pictures/Screenshots"))
 
 -- window focus
 hl.bind(MainMod .. "+ H", hl.dsp.focus({ direction = "left" }))
@@ -39,6 +42,11 @@ hl.bind(MainMod .. "+ SHIFT + H", hl.dsp.window.move({ direction = "left" }))
 hl.bind(MainMod .. "+ SHIFT + J", hl.dsp.window.move({ direction = "down" }))
 hl.bind(MainMod .. "+ SHIFT + K", hl.dsp.window.move({ direction = "up" }))
 hl.bind(MainMod .. "+ SHIFT + L", hl.dsp.window.move({ direction = "right" }))
+
+-- notifications
+hl.bind(MainMod .. "+ N", hl.dsp.exec_cmd("makoctl dismiss"))
+hl.bind(MainMod .. "+ SHIFT + N", hl.dsp.exec_cmd("makoctl dismiss --all"))
+hl.bind(MainMod .. "+ CTRL + N", hl.dsp.exec_cmd("makoctl restore"))
 
 -- workspace switch
 hl.bind(MainMod .. "+ ampersand", hl.dsp.focus({ workspace = 1 }))

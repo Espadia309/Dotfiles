@@ -155,7 +155,7 @@ window#waybar {
 }
 
 #tray menu menuitem {
-  background-image: linear-gradient(to bottom, #400020 100%);
+  background-color: #400020;
   margin: 3px;
   color: @fg;
   border-radius: 4px;
@@ -164,7 +164,7 @@ window#waybar {
 }
 
 #tray menu menuitem:hover {
-  background-image: linear-gradient(to bottom, #600040 100%);
+  background-color: #600040;
   color: @accent;
   font-weight: bold;
 }

@@ -10,6 +10,7 @@ hl.config({
 			natural_scroll = false,
 			tap_to_click = true,
 			disable_while_typing = true,
+			clickfinger_behavior = true,
 			tap_button_map = "lmr",
 		},
 	},
@@ -55,6 +56,16 @@ hl.config({
 	master = {
 		new_status = master,
 	},
+})
+-- 3-finger swipe left/right: switch workspace
+hl.gesture({ fingers = 3, direction = "vertical", action = "workspace" })
+-- 3-finger swipe up: open the launcher
+hl.gesture({
+	fingers = 3,
+	direction = "horizontal",
+	action = function()
+		hl.exec_cmd(menu)
+	end,
 })
 -- Curves
 hl.curve("fluent_decel", { type = "bezier", points = { { 0, 0.2 }, { 0.4, 1 } } })
