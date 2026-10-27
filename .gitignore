@@ -4,7 +4,8 @@
 !/.config/btop
 !/.config/hypr
 !/.config/kitty
-!/.config/mpd
+!/.config/mpd/playlists
+!.config/mpd/mpd.conf
 !/.config/nvim
 !/.config/obsidian
 !/.config/rmpc
