@@ -1,7 +1,8 @@
 -- Pick the per-machine file from /etc/hostname.
 -- Add a line here for each machine; unknown hostnames fall back to "desktop".
 local hosts = {
-	espadiacachyos = "framework",
+	espadia_cachyos = "framework",
+	espadiacachyos = "framework", -- in case the name ever changes back
 }
 
 local ok, f = pcall(io.open, "/etc/hostname")
