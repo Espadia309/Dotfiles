@@ -60,6 +60,10 @@ hl.bind(MainMod .. "+ underscore", hl.dsp.focus({ workspace = 8 }))
 hl.bind(MainMod .. "+ ccedilla", hl.dsp.focus({ workspace = 9 }))
 hl.bind(MainMod .. "+ R", hl.dsp.focus({ workspace = 10 }))
 
+-- scratchpad: toggle it, or send the focused window to it
+hl.bind(MainMod .. "+ twosuperior", hl.dsp.workspace.toggle_special("scratchpad"))
+hl.bind(MainMod .. "+ SHIFT + twosuperior", hl.dsp.window.move({ workspace = "special:scratchpad" }))
+
 -- move focused window in workspace
 hl.bind(MainMod .. "+ SHIFT + ampersand", hl.dsp.window.move({ workspace = 1 }))
 hl.bind(MainMod .. "+ SHIFT + eacute", hl.dsp.window.move({ workspace = 2 }))
