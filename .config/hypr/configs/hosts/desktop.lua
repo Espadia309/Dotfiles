@@ -23,10 +23,3 @@ hl.workspace_rule({ workspace = "3", monitor = "DP-1" })
 hl.workspace_rule({ workspace = "4", monitor = "DP-1" })
 hl.workspace_rule({ workspace = "5", monitor = "HDMI-A-1" })
 hl.workspace_rule({ workspace = "6", monitor = "HDMI-A-1" })
-hl.window_rule({
-	name = "scratchpad",
-	match = { class = "scratchpad" },
-	float = true,
-	size = { 1100, 650 },
-	center = true,
-})

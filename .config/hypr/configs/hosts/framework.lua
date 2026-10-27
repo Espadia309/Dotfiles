@@ -20,5 +20,3 @@ hl.monitor({
 
 hl.config({ xwayland = { force_zero_scaling = true } })
 hl.env("STEAM_FORCE_DESKTOPUI_SCALING", "1.6")
-
-hl.workspace_rule({ workspace = "special:scratchpad", on_created_empty = "kitty --class scratchpad" })
