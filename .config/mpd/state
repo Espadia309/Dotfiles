@@ -1,8 +1,10 @@
-sw_volume: 52
+sw_volume: 19
 audio_device_state:1:pipewire output
 audio_device_state:1:Visualizer feed
-state: stop
-random: 0
+state: play
+current: 48
+time: 120.035
+random: 1
 repeat: 1
 single: 0
 consume: 0
@@ -11,4 +13,56 @@ mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
+0:2023-11-15 - Sonic Frontiers Expansion Soundtrack Paths Revisited/2-15 I’m Here - Revisited (feat. Kellin Quinn).flac
+1:Astrid/SUCKER (2026)/02 needy girl overdose.flac
+2:Astrid/SUCKER (2026)/04 killing stalking.flac
+3:Astrid/SUCKER (2026)/05 jawbreaker.flac
+4:Astrid/SUCKER (2026)/10 clementine's lament.flac
+5:Astrid/SUCKER (2026)/07 ode to a balloon animal (with milkypossum).flac
+6:Astrid/SUCKER (2026)/14 reverie.flac
+7:Crush40/THE BEST OF CRUSH 40_ SUPER SONIC SONGS/01 I Am… All Of Me.flac
+8:Crush40/THE BEST OF CRUSH 40_ SUPER SONIC SONGS/04 All Hail Shadow.flac
+9:Crush40/THE BEST OF CRUSH 40_ SUPER SONIC SONGS/10 Sonic Heroes.flac
+10:Crush40/THE BEST OF CRUSH 40_ SUPER SONIC SONGS/11 What I’m Made Of….flac
+11:Crush40/THE BEST OF CRUSH 40_ SUPER SONIC SONGS/13 Knight Of The Wind.flac
+12:Crush40/THE BEST OF CRUSH 40_ SUPER SONIC SONGS/14 Live & Learn.flac
+13:Crush40/THE BEST OF CRUSH 40_ SUPER SONIC SONGS/15 Open Your Heart.flac
+14:Feldup/Stared At from a Distance/Feldup - Stared At from a Distance - 02 - Stared At from a Distance.flac
+15:Feldup/Stared At from a Distance/Feldup - Stared At from a Distance - 03 - Naked and Afraid.flac
+16:Feldup/Towards Happiness/02 - Running on Empty (The Sacrifice).mp3
+17:Feldup/Towards Happiness/03 - Get Up OK.mp3
+18:Feldup/Towards Happiness/05 - Take Your Time.mp3
+19:femtanyl/CHASER/01 - ACT RIGHT.flac
+20:femtanyl/CHASER/04 - KATAMARI.flac
+21:femtanyl/CHASER/05 - MURDER EVERY 1 U KNOW! (feat. takihasdied).flac
+22:femtanyl/DOGMATICA/femtanyl - DOGMATICA.flac
+23:femtanyl/LOVESICK, CANNIBAL!/femtanyl - LOVESICK, CANNIBAL!.flac
+24:femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 01 - BODY THE PISTOL.flac
+25:femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 02 - VIDEO NASTY.flac
+26:femtanyl/MAN BITES DOG/femtanyl - MAN BITES DOG - 03 - SICK OF IT.flac
+27:femtanyl/NASTYWERKKKK!/NASTYWERKKKK!.flac
+28:femtanyl/REACTOR/05 - ATTACKING VERTICAL.flac
+29:Iyowa/Iyowa - kyu-kurarin [FLAC]/Iyowa - kyu-kurarin.flac
+30:Machine Girl/_..BECAUSE I'M YOUNG ARROGANT AND HATE EVERYTHING YOU STAND FOR/13 - MCHNGRL VS WLFGRL.flac
+31:Machine Girl/_..BECAUSE I'M YOUNG ARROGANT AND HATE EVERYTHING YOU STAND FOR/05 - BULLET HELL.flac
+32:Machine Girl/_..BECAUSE I'M YOUNG ARROGANT AND HATE EVERYTHING YOU STAND FOR/12 - うずまき.flac
+33:Machine Girl/PsychoWarrior_ MG Ultra X/14 - i-Void Destroyer.flac
+34:Machine Girl/PsychoWarrior_ MG Ultra X/11 - Despite Having No Money At All I’m Just Another Rat in the Mall.flac
+35:Milkypossum/milkypossum - 「THE NEET EP」/milkypossum - 「THE NEET EP」 - 01 Beautiful Princess Disorder.flac
+36:Sidney Gish/No Dogs Allowed (2017)/02. Sin Triangle.flac
+37:Sidney Gish/No Dogs Allowed (2017)/12. Impostor Syndrome.flac
+38:Sonic and the Secret Rings - Seven Rings in Hand/1-01 - Seven Rings in Hand.mp3
+39:Sonic and the Secret Rings - Seven Rings in Hand/1-13 - It Has Come to This.mp3
+40:SONIC THE HEDGEHOG CD Original Soundtrack 20th Anniversary Edition/06 - Palmtree Panic (Past).flac
+41:SONIC THE HEDGEHOG CD Original Soundtrack 20th Anniversary Edition/27 - Stardust Speedway (Bad Future).flac
+42:SONIC THE HEDGEHOG CD Original Soundtrack 20th Anniversary Edition/40 - Sonic Boom.flac
+43:STOMACH BOOK/123 (the longest dream)/01 - 123 (the longest dream).flac
+44:STOMACH BOOK/[2025] GOODNIGHT HYPNOPOMP/01 - FUKOUNA GIRL.flac
+45:STOMACH BOOK/[2025] GOODNIGHT HYPNOPOMP/02 - My Diorama.flac
+46:STOMACH BOOK/[2025] GOODNIGHT HYPNOPOMP/05 - Paper Dolls.flac
+47:STOMACH BOOK/[2025] GOODNIGHT HYPNOPOMP/03 - SICK SICK SICK.flac
+48:STOMACH BOOK/SOPHOMORE SLUMP CALLITHUMP (2024)/STOMACH BOOK - SOPHOMORE SLUMP CALLITHUMP - 02 - Casket Kids.flac
+49:STOMACH BOOK/SOPHOMORE SLUMP CALLITHUMP (2024)/STOMACH BOOK - SOPHOMORE SLUMP CALLITHUMP - 03 - METANOIA.flac
+50:黒崎真音/01. 黒崎真音 - DEAD OR LIE.flac
+51:2023-11-15 - Sonic Frontiers Expansion Soundtrack Paths Revisited/1-01 Cutscene- Unforseen.flac
 playlist_end

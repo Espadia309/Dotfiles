@@ -90,7 +90,7 @@
             "d":       Delete, // delete song from queue
             "i":       ShowInfo,
             "C":       JumpToCurrent,
-            "<C-s>":   Save, // save current playng queue to new playlist
+            "S":   Save, // save current playng queue to new playlist
         },
     ),
     // Customize Search Tab
