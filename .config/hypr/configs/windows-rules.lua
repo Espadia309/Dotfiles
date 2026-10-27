@@ -16,3 +16,4 @@ hl.layer_rule({
 	ignore_alpha = 0.3,
 })
 hl.window_rule({ name = "guide-float", match = { class = "guide" }, float = true, size = { 900, 650 } })
+hl.window_rule({ name = "suppress-maximize", match = { class = ".*" }, suppress_event = "maximize" })

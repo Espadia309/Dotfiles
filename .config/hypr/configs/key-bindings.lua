@@ -22,9 +22,9 @@ hl.bind(MainMod .. " + SPACE", hl.dsp.exec_cmd(menu))
 hl.bind(MainMod .. "+ W", hl.dsp.exec_cmd("bash " .. scripts .. "/menu-rofi.sh"))
 
 -- basic functions
-hl.bind(MainMod .. "+ SHIFT + Q", hl.dsp.window.close(activewindow))
-hl.bind(MainMod .. "+ F", hl.dsp.window.fullscreen(toggle, activewindow))
-hl.bind(MainMod .. "+ SHIFT + SPACE", hl.dsp.window.float(toggle, activewindow))
+hl.bind(MainMod .. "+ SHIFT + Q", hl.dsp.window.close())
+hl.bind(MainMod .. "+ F", hl.dsp.window.fullscreen({ mode = "fullscreen", action = "toggle" }))
+hl.bind(MainMod .. "+ SHIFT + SPACE", hl.dsp.window.float({ action = "toggle" }))
 
 -- screenshots functions
 hl.bind(MainMod .. "+ PRINT", hl.dsp.exec_cmd("hyprshot -m output -o ~/Pictures/Screenshots"))
