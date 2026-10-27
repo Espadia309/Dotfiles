@@ -1,0 +1,15 @@
+/*
+!/.config
+/.config/*
+!/.config/btop
+!/.config/hypr
+!/.config/kitty
+!/.config/mpd
+!/.config/nvim
+!/.config/obsidian
+!/.config/rmpc
+!/.config/rofi
+!/.config/waybar
+!.gitignore
+!/.config/glow
+!/.config/mako
