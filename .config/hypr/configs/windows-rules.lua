@@ -15,6 +15,11 @@ hl.layer_rule({
 	blur = true,
 	ignore_alpha = 0.3,
 })
+hl.layer_rule({
+	name = "rofi-no-anim",
+	match = { namespace = "rofi" },
+	no_anim = true,
+})
 hl.window_rule({ name = "guide-float", match = { class = "guide" }, float = true, size = { 900, 650 } })
 hl.window_rule({ name = "suppress-maximize", match = { class = ".*" }, suppress_event = "maximize" })
 hl.workspace_rule({
