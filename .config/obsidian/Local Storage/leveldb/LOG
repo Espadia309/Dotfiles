@@ -1,3 +1,6 @@
-2026/10/22-00:11:32.448 1636e Reusing MANIFEST /home/espadia/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
-2026/10/22-00:11:32.452 1636e Recovering log #8
-2026/10/22-00:11:32.487 1636e Reusing old log /home/espadia/.config/obsidian/Local Storage/leveldb/000008.log 
+2026/11/10-18:59:09.024 1ded Reusing MANIFEST /home/espadia/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2026/11/10-18:59:09.030 1ded Recovering log #8
+2026/11/10-18:59:09.031 1ded Reusing old log /home/espadia/.config/obsidian/Local Storage/leveldb/000008.log 
+2026/11/10-21:37:50.350 1e02 Level-0 table #11: started
+2026/11/10-21:37:50.355 1e02 Level-0 table #11: 9902 bytes OK
+2026/11/10-21:37:50.358 1e02 Delete type=0 #8

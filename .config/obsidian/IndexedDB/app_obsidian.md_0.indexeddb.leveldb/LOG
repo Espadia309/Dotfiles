@@ -1,3 +1,30 @@
-2026/10/22-00:11:33.489 1636e Reusing MANIFEST /home/espadia/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2026/10/22-00:11:33.489 1636e Recovering log #87
-2026/10/22-00:11:33.511 1636e Reusing old log /home/espadia/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000087.log 
+2026/11/10-18:59:09.318 1e02 Reusing MANIFEST /home/espadia/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/11/10-18:59:09.318 1e02 Recovering log #117
+2026/11/10-18:59:09.325 1e02 Reusing old log /home/espadia/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000117.log 
+2026/11/10-19:55:08.489 1e02 Level-0 table #122: started
+2026/11/10-19:55:08.506 1e02 Level-0 table #122: 1187747 bytes OK
+2026/11/10-19:55:08.509 1e02 Delete type=0 #117
+2026/11/10-19:55:41.244 1e02 Compacting 1@1 + 1@2 files
+2026/11/10-19:55:41.270 1e02 Generated table #123@1: 2654 keys, 733536 bytes
+2026/11/10-19:55:41.270 1e02 Compacted 1@1 + 1@2 files => 733536 bytes
+2026/11/10-19:55:41.273 1e02 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/11/10-19:55:41.273 1e02 Delete type=2 #119
+2026/11/10-19:55:41.273 1e02 Delete type=2 #122
+2026/11/10-20:43:43.550 1ded Level-0 table #125: started
+2026/11/10-20:43:43.568 1ded Level-0 table #125: 1165645 bytes OK
+2026/11/10-20:43:43.571 1ded Delete type=0 #121
+2026/11/10-20:44:22.701 1e02 Compacting 1@1 + 1@2 files
+2026/11/10-20:44:22.726 1e02 Generated table #126@1: 3264 keys, 823718 bytes
+2026/11/10-20:44:22.726 1e02 Compacted 1@1 + 1@2 files => 823718 bytes
+2026/11/10-20:44:22.729 1e02 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/11/10-20:44:22.729 1e02 Delete type=2 #123
+2026/11/10-20:44:22.729 1e02 Delete type=2 #125
+2026/11/10-21:35:35.330 1e02 Level-0 table #128: started
+2026/11/10-21:35:35.356 1e02 Level-0 table #128: 1156916 bytes OK
+2026/11/10-21:35:35.359 1e02 Delete type=0 #124
+2026/11/10-21:37:00.521 1ded Compacting 1@1 + 1@2 files
+2026/11/10-21:37:00.547 1ded Generated table #129@1: 3525 keys, 923636 bytes
+2026/11/10-21:37:00.547 1ded Compacted 1@1 + 1@2 files => 923636 bytes
+2026/11/10-21:37:00.550 1ded compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/11/10-21:37:00.550 1ded Delete type=2 #126
+2026/11/10-21:37:00.550 1ded Delete type=2 #128

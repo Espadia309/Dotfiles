@@ -2,8 +2,8 @@ sw_volume: 26
 audio_device_state:1:pipewire output
 audio_device_state:1:Visualizer feed
 state: play
-current: 52
-time: 67.614
+current: 11
+time: 156.967
 random: 1
 repeat: 1
 single: 0
@@ -71,4 +71,12 @@ playlist_begin
 55:Sonic OST'S/SONIC THE HEDGEHOG CD Original Soundtrack 20th Anniversary Edition/06 - Palmtree Panic (Past).flac
 56:Sonic OST'S/SONIC THE HEDGEHOG CD Original Soundtrack 20th Anniversary Edition/27 - Stardust Speedway (Bad Future).flac
 57:Sonic OST'S/SONIC THE HEDGEHOG CD Original Soundtrack 20th Anniversary Edition/40 - Sonic Boom.flac
+58:Feldup/Towards Happiness/06 - Clothes on the Ground - Melting.mp3
+59:Feldup/Towards Happiness/08 - Unusual Order.mp3
+60:Feldup/Towards Happiness/09 - Towards Happiness.mp3
+61:Feldup/A thousand doors, just one key/Feldup - A thousand doors, just one key - 03 - Attention.flac
+62:Feldup/A thousand doors, just one key/Feldup - A thousand doors, just one key - 02 - Falling apart.flac
+63:Sidney Gish/No Dogs Allowed (2017)/03. Good Magicians.flac
+64:Sidney Gish/No Dogs Allowed (2017)/04. Sophisticated Space.flac
+65:Sidney Gish/No Dogs Allowed (2017)/11. Persephone.flac
 playlist_end
