@@ -22,7 +22,9 @@ hl.layer_rule({
 })
 hl.window_rule({ name = "guide-float", match = { class = "guide" }, float = true, size = { 900, 650 } })
 hl.window_rule({ name = "suppress-maximize", match = { class = ".*" }, suppress_event = "maximize" })
-hl.workspace_rule({
-	workspace = "special:scratchpad",
-	on_created_empty = "kitty --class scratchpad -o background_opacity=0.4",
-})
+hl.on("workspace.created", function(ws)
+    if ws.name ~= "special:scratchpad" then return end
+    if not ws.is_empty then return end
+
+    hl.exec_cmd("kitty --class scratchpad -o background_opacity=0.4")
+end)
